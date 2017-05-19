@@ -1,0 +1,2644 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShopKit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-29 04:40+0200\n"
+"PO-Revision-Date: 2016-10-25 19:06+0100\n"
+"Last-Translator: Nenad Mihajlovic <dzeriho@gmail.com>\n"
+"Language-Team: Mihajlovicnenad.com <dzeriho@gmail.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: framework/option-tree\n"
+"X-Poedit-SearchPathExcluded-1: framework/tgm-activation\n"
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:11
+msgid "Your requested page or post was not found"
+msgstr ""
+
+#: content-none.php:12
+msgid ""
+"Sorry, we cannot find the page that you are looking for. It might have been "
+"removed, had its name changed, or is temporarily unavailable. Please check "
+"that the website address is spelled correctly."
+msgstr ""
+
+#: framework/class-activate.php:20
+msgid "About ShopKit"
+msgstr ""
+
+#: framework/class-activate.php:43
+msgid "Welcome to ShopKit!"
+msgstr ""
+
+#: framework/class-activate.php:44
+#, php-format
+msgid ""
+"The ultimate WooCommerce theme is here! For documentation and guides, "
+"videos, changelogs and support follow this %1$slink%2$s!"
+msgstr ""
+
+#: framework/class-activate.php:52
+msgid "Version"
+msgstr ""
+
+#: framework/class-activate.php:55
+msgid "Thanks for using the ShopKit theme!"
+msgstr ""
+
+#: framework/class-activate.php:72
+msgid "Knowledge Base"
+msgstr ""
+
+#: framework/class-activate.php:73
+#, php-format
+msgid ""
+"Fine everything about our plugins and themes in our %1$sKnowledge Base%2$s. "
+"In-depth documentation for the theme, including dozens of guide videos and "
+"plugin information."
+msgstr ""
+
+#: framework/class-activate.php:77
+msgid "Demo Content"
+msgstr ""
+
+#: framework/class-activate.php:78
+#, php-format
+msgid ""
+"Want our demo content, products and pages on your website? Recreate our demo "
+"webiste in a single click! Find out how %1$shere%2$s."
+msgstr ""
+
+#: framework/class-activate.php:82
+msgid "Child Themes"
+msgstr ""
+
+#: framework/class-activate.php:86
+msgid "ShopKit is installed using child theme. Way to go!"
+msgstr ""
+
+#: framework/class-activate.php:91
+msgid ""
+"Child theme is not used. Please follow the link bellow for more information!"
+msgstr ""
+
+#: framework/class-activate.php:95
+#, php-format
+msgid ""
+"Always use a child theme instead of the original ShopKit theme. To find out "
+"more about child themes, visit this %1$slink%2$s."
+msgstr ""
+
+#: framework/class-activate.php:99
+msgid "Support"
+msgstr ""
+
+#: framework/class-activate.php:100
+#, php-format
+msgid ""
+"Got a question about ShopKit or the exclusive extensions? Please visit our "
+"support forum %1$shere%2$s and open a ticket."
+msgstr ""
+
+#: framework/class-breadcrumb-trail.php:245
+msgid "Browse:"
+msgstr ""
+
+#: framework/class-breadcrumb-trail.php:247
+msgid "Home"
+msgstr ""
+
+#: framework/class-breadcrumb-trail.php:248
+msgid "404 Not Found"
+msgstr ""
+
+#: framework/class-breadcrumb-trail.php:249
+msgid "Archives"
+msgstr ""
+
+#: framework/class-breadcrumb-trail.php:251
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/class-breadcrumb-trail.php:253
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/class-breadcrumb-trail.php:255
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: framework/class-breadcrumb-trail.php:257
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: framework/class-shopkit.php:109 framework/class-woocommerce.php:207
+msgid "AJAX Error!"
+msgstr ""
+
+#: framework/class-shopkit.php:110
+msgid "Go to Checkout"
+msgstr ""
+
+#: framework/class-shopkit.php:591 sidebar-left.php:33 sidebar-right.php:33
+#: sidebar.php:35
+#, php-format
+msgid ""
+"Sidebar is empty! To add content here check your %1$sWidgets Section%2$s"
+msgstr ""
+
+#: framework/class-shopkit.php:844 framework/class-shopkit.php:850
+msgid "UI Image"
+msgstr ""
+
+#: framework/class-shopkit.php:882 framework/class-shopkit.php:1224
+msgid "Register"
+msgstr ""
+
+#: framework/class-shopkit.php:885 framework/class-shopkit.php:1236
+msgid "Log in"
+msgstr ""
+
+#: framework/class-shopkit.php:888
+msgid "Log in / Register"
+msgstr ""
+
+#: framework/class-shopkit.php:895
+msgid "Registeration invalid!"
+msgstr ""
+
+#: framework/class-shopkit.php:898
+msgid "Invalid login!"
+msgstr ""
+
+#: framework/class-shopkit.php:901
+msgid "Log in / Registrtation invalid!"
+msgstr ""
+
+#: framework/class-shopkit.php:924
+msgid "Click to close the login form!"
+msgstr ""
+
+#: framework/class-shopkit.php:939 framework/class-shopkit.php:942
+#: framework/class-shopkit.php:945
+msgid "Logout"
+msgstr ""
+
+#: framework/class-shopkit.php:1178
+msgid "User registration is disabled."
+msgstr ""
+
+#: framework/class-shopkit.php:1191
+msgid "Logged in as"
+msgstr ""
+
+#: framework/class-shopkit.php:1199
+msgid "Register New Account"
+msgstr ""
+
+#: framework/class-shopkit.php:1203 framework/class-shopkit.php:1204
+#: framework/class-shopkit.php:1240 framework/class-shopkit.php:1241
+msgid "Username"
+msgstr ""
+
+#: framework/class-shopkit.php:1208 framework/class-shopkit.php:1209
+msgid "Email"
+msgstr ""
+
+#: framework/class-shopkit.php:1213 framework/class-shopkit.php:1214
+#: framework/class-shopkit.php:1245 framework/class-shopkit.php:1246
+msgid "Password"
+msgstr ""
+
+#: framework/class-shopkit.php:1218 framework/class-shopkit.php:1219
+msgid "Repeat Password"
+msgstr ""
+
+#: framework/class-shopkit.php:1251
+msgid "Login"
+msgstr ""
+
+#: framework/class-shopkit.php:1268 framework/class-shopkit.php:1306
+msgid "Invalid username"
+msgstr ""
+
+#: framework/class-shopkit.php:1272 framework/class-shopkit.php:1318
+msgid "Enter password"
+msgstr ""
+
+#: framework/class-shopkit.php:1280
+msgid "Incorrect password"
+msgstr ""
+
+#: framework/class-shopkit.php:1303
+msgid "Username already taken"
+msgstr ""
+
+#: framework/class-shopkit.php:1309
+msgid "Enter username"
+msgstr ""
+
+#: framework/class-shopkit.php:1312
+msgid "Invalid email"
+msgstr ""
+
+#: framework/class-shopkit.php:1315
+msgid "Email already registered"
+msgstr ""
+
+#: framework/class-shopkit.php:1321
+msgid "Passwords do not match"
+msgstr ""
+
+#: framework/class-shopkit.php:1398
+msgid "Menu background"
+msgstr ""
+
+#: framework/class-shopkit.php:1549
+msgid "Tags"
+msgstr ""
+
+#: framework/class-shopkit.php:1555 framework/class-shopkit.php:1885
+msgid "Read more"
+msgstr ""
+
+#: framework/class-shopkit.php:1560
+msgid "Pages:"
+msgstr ""
+
+#: framework/class-shopkit.php:1564 framework/class-shopkit.php:2068
+msgid "Page"
+msgstr ""
+
+#: framework/class-shopkit.php:1747
+msgid "Your browser does not support the audio tag."
+msgstr ""
+
+#: framework/class-shopkit.php:1809
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: framework/class-shopkit.php:1939
+msgid "Posted in"
+msgstr ""
+
+#: framework/class-shopkit.php:1939
+msgid "by"
+msgstr ""
+
+#: framework/class-shopkit.php:1940
+msgid "on"
+msgstr ""
+
+#: framework/class-shopkit.php:1947
+msgid "Next &rarr;"
+msgstr ""
+
+#: framework/class-shopkit.php:1948
+msgid "Next post:"
+msgstr ""
+
+#: framework/class-shopkit.php:1950
+msgid "&larr; Previous"
+msgstr ""
+
+#: framework/class-shopkit.php:1951
+msgid "Previous post:"
+msgstr ""
+
+#: framework/class-shopkit.php:1978
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: framework/class-shopkit.php:1981
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: framework/class-shopkit.php:1997 framework/class-shopkit.php:2000
+#: framework/class-shopkit.php:2003 framework/class-shopkit.php:2007
+#: framework/class-shopkit.php:2013
+msgid "Archive"
+msgstr ""
+
+#: framework/class-shopkit.php:2066 framework/class-woocommerce.php:143
+msgid "Prev"
+msgstr ""
+
+#: framework/class-shopkit.php:2067 framework/class-woocommerce.php:144
+msgid "Next"
+msgstr ""
+
+#: framework/class-shopkit.php:2183
+msgid "Password protected!"
+msgstr ""
+
+#: framework/class-shopkit.php:2184
+msgid ""
+"This content is password protected. To view it please enter your password."
+msgstr ""
+
+#: framework/class-woocommerce.php:239
+msgid "Awaiting product image"
+msgstr ""
+
+#: framework/class-woocommerce.php:278
+msgid "Click to close product quick view!"
+msgstr ""
+
+#: framework/class-woocommerce.php:302
+msgid "Cart"
+msgstr ""
+
+#: framework/class-woocommerce.php:307
+msgid "View shopping cart!"
+msgstr ""
+
+#: framework/class-woocommerce.php:323
+#, php-format
+msgid "Cart is empty. Add some products in the %1$sShop%2$s!"
+msgstr ""
+
+#: framework/class-woocommerce.php:329
+#, php-format
+msgid "Go to %1$sCheckout%2$s!"
+msgstr ""
+
+#: framework/class-woocommerce.php:379
+msgid "Available on backorder"
+msgstr ""
+
+#: framework/class-woocommerce.php:389
+msgid "Remove this item"
+msgstr ""
+
+#: framework/class-woocommerce.php:400
+msgid "Click to close the shopping cart!"
+msgstr ""
+
+#: framework/metabox-ot.php:38 framework/settings-ot.php:930
+msgid "Page Title"
+msgstr ""
+
+#: framework/metabox-ot.php:39 framework/metabox-ot.php:100
+#: framework/settings-ot.php:931
+msgid "Set the page title appearance."
+msgstr ""
+
+#: framework/metabox-ot.php:53
+msgid "Default From Theme Settings"
+msgstr ""
+
+#: framework/metabox-ot.php:58 framework/settings-ot.php:945
+#: framework/settings-woocommerce.php:273
+#: framework/settings-woocommerce.php:282
+#: framework/settings-woocommerce.php:291
+#: framework/settings-woocommerce.php:300
+#: framework/settings-woocommerce.php:309
+#: framework/settings-woocommerce.php:582
+#: framework/settings-woocommerce.php:591
+#: framework/settings-woocommerce.php:600
+#: framework/settings-woocommerce.php:609
+#: framework/settings-woocommerce.php:618
+#: framework/settings-woocommerce.php:627
+#: framework/settings-woocommerce.php:636
+#: framework/settings-woocommerce.php:645
+msgid "Hide"
+msgstr ""
+
+#: framework/metabox-ot.php:63 framework/settings-ot.php:950
+msgid "Above Page Content"
+msgstr ""
+
+#: framework/metabox-ot.php:74
+msgid "Without Sidebars"
+msgstr ""
+
+#: framework/metabox-ot.php:79
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: framework/metabox-ot.php:99
+msgid "Sidebar Layout"
+msgstr ""
+
+#: framework/metabox-ot.php:116
+msgid "Short Description"
+msgstr ""
+
+#: framework/metabox-ot.php:117
+msgid "Enter short description."
+msgstr ""
+
+#: framework/metabox-ot.php:131
+msgid "No Slider Template"
+msgstr ""
+
+#: framework/metabox-ot.php:149
+msgid "Revolution Slider Absolute Top"
+msgstr ""
+
+#: framework/metabox-ot.php:150
+msgid "Add Revolution Slider template to the absolute top position."
+msgstr ""
+
+#: framework/metabox-ot.php:158
+msgid "Revolution Slider After Header"
+msgstr ""
+
+#: framework/metabox-ot.php:159
+msgid "Add Revolution Slider template after header."
+msgstr ""
+
+#: framework/metabox-ot.php:167
+msgid "Revolution Slider Before Footer"
+msgstr ""
+
+#: framework/metabox-ot.php:168
+msgid "Add Revolution Slider template before footer."
+msgstr ""
+
+#: framework/metabox-ot.php:176
+msgid "Revolution Slider Absolute Bottom"
+msgstr ""
+
+#: framework/metabox-ot.php:177
+msgid "Add Revolution Slider template to the absolute bottom position."
+msgstr ""
+
+#: framework/metabox-ot.php:187
+msgid "ShopKit Page Settings"
+msgstr ""
+
+#: framework/metabox-ot.php:188
+msgid "Setup custom page options."
+msgstr ""
+
+#: framework/metabox-ot.php:201
+msgid "Gallery Post"
+msgstr ""
+
+#: framework/metabox-ot.php:202
+msgid "Enter gallery shortcode to use. [gallery]"
+msgstr ""
+
+#: framework/metabox-ot.php:208
+msgid "Video Post MP4 URL"
+msgstr ""
+
+#: framework/metabox-ot.php:209
+msgid "Enter URL of the .mp4 video."
+msgstr ""
+
+#: framework/metabox-ot.php:215
+msgid "Video Post OGG URL"
+msgstr ""
+
+#: framework/metabox-ot.php:216
+msgid "Enter URL of the .ogg video."
+msgstr ""
+
+#: framework/metabox-ot.php:222
+msgid "Video Post EMBED"
+msgstr ""
+
+#: framework/metabox-ot.php:223
+msgid "Enter embed code for the video."
+msgstr ""
+
+#: framework/metabox-ot.php:230
+msgid "Audio Post MPEG URL"
+msgstr ""
+
+#: framework/metabox-ot.php:231
+msgid "Enter URL of the .mp3/.mp4 audio."
+msgstr ""
+
+#: framework/metabox-ot.php:237
+msgid "Audio Post OGG URL"
+msgstr ""
+
+#: framework/metabox-ot.php:238
+msgid "Enter URL of the .ogg audio."
+msgstr ""
+
+#: framework/metabox-ot.php:244
+msgid "Audio Post EMBED"
+msgstr ""
+
+#: framework/metabox-ot.php:245
+msgid "Enter embed code for the audio."
+msgstr ""
+
+#: framework/metabox-ot.php:252
+msgid "Link Post"
+msgstr ""
+
+#: framework/metabox-ot.php:253
+msgid "Enter URL for the link post."
+msgstr ""
+
+#: framework/metabox-ot.php:260
+msgid "Quote Post"
+msgstr ""
+
+#: framework/metabox-ot.php:261
+msgid "Enter quote."
+msgstr ""
+
+#: framework/metabox-ot.php:268
+msgid "ShopKit Post Settings"
+msgstr ""
+
+#: framework/metabox-ot.php:269
+msgid "Setup custom post options."
+msgstr ""
+
+#: framework/settings-ot.php:58 framework/settings-ot.php:4048
+msgid "Save Changes"
+msgstr ""
+
+#: framework/settings-ot.php:62
+msgid "All in one WooCommerce theme!"
+msgstr ""
+
+#: framework/settings-ot.php:79
+msgid ""
+"Demo can only be installed on a clean Wordpress installation! All data will "
+"be lost! Are you sure about this?"
+msgstr ""
+
+#: framework/settings-ot.php:80
+msgid "Finished! Page will reload now!"
+msgstr ""
+
+#: framework/settings-ot.php:107 framework/settings-ot.php:111
+msgid "ShopKit"
+msgstr ""
+
+#: framework/settings-ot.php:156
+msgid "Select Section"
+msgstr ""
+
+#: framework/settings-ot.php:157
+msgid "Select section type."
+msgstr ""
+
+#: framework/settings-ot.php:170
+msgid "Elements Bar"
+msgstr ""
+
+#: framework/settings-ot.php:175
+msgid "Widget Section"
+msgstr ""
+
+#: framework/settings-ot.php:180
+msgid "Content Text/HTML/Shortcode"
+msgstr ""
+
+#: framework/settings-ot.php:187
+msgid "Fullwidth Section"
+msgstr ""
+
+#: framework/settings-ot.php:188
+msgid "Set element width to fullwidth."
+msgstr ""
+
+#: framework/settings-ot.php:205
+msgid "Branding"
+msgstr ""
+
+#: framework/settings-ot.php:210
+msgid "Website Elements"
+msgstr ""
+
+#: framework/settings-ot.php:215
+msgid "General Styles"
+msgstr ""
+
+#: framework/settings-ot.php:220
+msgid "Pages, Posts and Blog"
+msgstr ""
+
+#: framework/settings-ot.php:225
+msgid "Layout and Custom CSS"
+msgstr ""
+
+#: framework/settings-ot.php:230
+msgid "Sidebars"
+msgstr ""
+
+#: framework/settings-ot.php:242
+msgid "Demo"
+msgstr ""
+
+#: framework/settings-ot.php:250
+msgid "Filled"
+msgstr ""
+
+#: framework/settings-ot.php:255
+msgid "Bordered"
+msgstr ""
+
+#: framework/settings-ot.php:260
+msgid "Glossy"
+msgstr ""
+
+#: framework/settings-ot.php:265
+msgid "Diamond"
+msgstr ""
+
+#: framework/settings-ot.php:280
+msgid "Header Elements"
+msgstr ""
+
+#: framework/settings-ot.php:281
+msgid ""
+"Use the manager to add elements to the header area. Section titles cannot be "
+"changed."
+msgstr ""
+
+#: framework/settings-ot.php:296
+msgid "Footer Elements"
+msgstr ""
+
+#: framework/settings-ot.php:297
+msgid ""
+"Use the manager to add elements to the footer area. Section titles cannot be "
+"changed."
+msgstr ""
+
+#: framework/settings-ot.php:312
+msgid "Logo/Image"
+msgstr ""
+
+#: framework/settings-ot.php:313
+msgid "Select logo/image."
+msgstr ""
+
+#: framework/settings-ot.php:327
+msgid "Logo/Image Link"
+msgstr ""
+
+#: framework/settings-ot.php:328
+msgid "Enter logo/image link. Leave blank to use the website home page."
+msgstr ""
+
+#: framework/settings-ot.php:342
+msgid "Site Title Font"
+msgstr ""
+
+#: framework/settings-ot.php:343
+msgid ""
+"Select site title font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:357
+msgid "Site Description Font"
+msgstr ""
+
+#: framework/settings-ot.php:358
+msgid ""
+"Select site description font. Use system fonts, included fonts or Google "
+"Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:372
+msgid "Favorites Icon"
+msgstr ""
+
+#: framework/settings-ot.php:373
+msgid "Select favorites icon."
+msgstr ""
+
+#: framework/settings-ot.php:387
+msgid "iDevices 57x57px"
+msgstr ""
+
+#: framework/settings-ot.php:388
+msgid "Select favorites iDevices icon 57x57px."
+msgstr ""
+
+#: framework/settings-ot.php:402
+msgid "iDevices 72x72px"
+msgstr ""
+
+#: framework/settings-ot.php:403
+msgid "Select favorites iDevices icon 72x72px."
+msgstr ""
+
+#: framework/settings-ot.php:417
+msgid "iDevices 114x114px"
+msgstr ""
+
+#: framework/settings-ot.php:418
+msgid "Select favorites iDevices icon 114x114px."
+msgstr ""
+
+#: framework/settings-ot.php:432
+msgid "iDevices 144x144px"
+msgstr ""
+
+#: framework/settings-ot.php:433
+msgid "Select favorites iDevices icon 142x142px."
+msgstr ""
+
+#: framework/settings-ot.php:447
+msgid "Site Publisher Google+ Profile"
+msgstr ""
+
+#: framework/settings-ot.php:448
+msgid "Enter site publisher google+ profile ID."
+msgstr ""
+
+#: framework/settings-ot.php:462
+msgid "Site Publisher Facebook Profile"
+msgstr ""
+
+#: framework/settings-ot.php:463
+msgid "Enter site publisher facebook profile ID."
+msgstr ""
+
+#: framework/settings-ot.php:477
+msgid "Wrapper Padding"
+msgstr ""
+
+#: framework/settings-ot.php:478
+msgid "Enter padding for the wrapper. e.g. 10px 0px 10px 0px"
+msgstr ""
+
+#: framework/settings-ot.php:492
+msgid "Wrapper Mode"
+msgstr ""
+
+#: framework/settings-ot.php:493
+msgid "Select wrapper mode."
+msgstr ""
+
+#: framework/settings-ot.php:507
+msgid "Central"
+msgstr ""
+
+#: framework/settings-ot.php:512
+msgid "On Left"
+msgstr ""
+
+#: framework/settings-ot.php:517
+msgid "On Right"
+msgstr ""
+
+#: framework/settings-ot.php:524
+msgid "Wrapper Width"
+msgstr ""
+
+#: framework/settings-ot.php:525 framework/settings-ot.php:540
+msgid "Set your website maximum width."
+msgstr ""
+
+#: framework/settings-ot.php:539
+msgid "Inner Wrapper Width"
+msgstr ""
+
+#: framework/settings-ot.php:554 framework/settings-ot.php:3485
+msgid "Columns Margin"
+msgstr ""
+
+#: framework/settings-ot.php:555 framework/settings-ot.php:3486
+msgid "Set margin between columns."
+msgstr ""
+
+#: framework/settings-ot.php:569
+msgid "Row Margin"
+msgstr ""
+
+#: framework/settings-ot.php:570 framework/settings-ot.php:3501
+msgid "Set margin between rows."
+msgstr ""
+
+#: framework/settings-ot.php:584
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/settings-ot.php:585
+msgid "Write custom CSS for the website."
+msgstr ""
+
+#: framework/settings-ot.php:599
+msgid "Content Padding"
+msgstr ""
+
+#: framework/settings-ot.php:600
+msgid "Enter padding for the content area. e.g. 10px 0px 10px 0px"
+msgstr ""
+
+#: framework/settings-ot.php:614
+msgid "Content Font"
+msgstr ""
+
+#: framework/settings-ot.php:615
+msgid "Select content font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:629
+msgid "Content Link"
+msgstr ""
+
+#: framework/settings-ot.php:630
+msgid "Select the link color in the content. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:644
+msgid "Content Link Hover"
+msgstr ""
+
+#: framework/settings-ot.php:645
+msgid "Select the link hover color in the content. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:659
+msgid "Content Separator"
+msgstr ""
+
+#: framework/settings-ot.php:660
+msgid "Select the separator color in the content. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:674
+msgid "Content Button"
+msgstr ""
+
+#: framework/settings-ot.php:675
+msgid ""
+"Set the content button settings. Use system fonts, included fonts or Google "
+"Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:689
+msgid "Content Button Hover"
+msgstr ""
+
+#: framework/settings-ot.php:690
+msgid ""
+"Set the content button hover settings. Use system fonts, included fonts or "
+"Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:704
+msgid "Content Button Style"
+msgstr ""
+
+#: framework/settings-ot.php:705
+msgid "Select content button style."
+msgstr ""
+
+#: framework/settings-ot.php:720
+msgid "Content Background"
+msgstr ""
+
+#: framework/settings-ot.php:721
+msgid ""
+"Select the background color for the content. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:735
+msgid "Content Shadow"
+msgstr ""
+
+#: framework/settings-ot.php:736
+msgid "Create a shadow for the content area."
+msgstr ""
+
+#: framework/settings-ot.php:750
+msgid "Content H1 Font"
+msgstr ""
+
+#: framework/settings-ot.php:751
+msgid ""
+"Select content h1 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:765
+msgid "Content H2 Font"
+msgstr ""
+
+#: framework/settings-ot.php:766
+msgid ""
+"Select content h2 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:780
+msgid "Content H3 Font"
+msgstr ""
+
+#: framework/settings-ot.php:781
+msgid ""
+"Select content h3 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:795
+msgid "Content H4 Font"
+msgstr ""
+
+#: framework/settings-ot.php:796
+msgid ""
+"Select content h4 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:810
+msgid "Content H5 Font"
+msgstr ""
+
+#: framework/settings-ot.php:811
+msgid ""
+"Select content h5 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:825
+msgid "Content H6 Font"
+msgstr ""
+
+#: framework/settings-ot.php:826
+msgid ""
+"Select content h6 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:840
+msgid "Wrapper Background"
+msgstr ""
+
+#: framework/settings-ot.php:841
+msgid ""
+"Select the background color for the wrapper. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:855
+msgid "Wrapper Shadow"
+msgstr ""
+
+#: framework/settings-ot.php:856
+msgid "Create a shadow for the wrapper."
+msgstr ""
+
+#: framework/settings-ot.php:870
+msgid "Header Background"
+msgstr ""
+
+#: framework/settings-ot.php:871
+msgid "Select the background color for the header. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:885
+msgid "Header Shadow"
+msgstr ""
+
+#: framework/settings-ot.php:886
+msgid "Create a shadow for the header."
+msgstr ""
+
+#: framework/settings-ot.php:900
+msgid "Footer Background"
+msgstr ""
+
+#: framework/settings-ot.php:901
+msgid "Select the background color for the footer. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:915
+msgid "Footer Shadow"
+msgstr ""
+
+#: framework/settings-ot.php:916
+msgid "Create a shadow for the footer."
+msgstr ""
+
+#: framework/settings-ot.php:957
+msgid "Page Comments"
+msgstr ""
+
+#: framework/settings-ot.php:958
+msgid "Set the page comments appearance."
+msgstr ""
+
+#: framework/settings-ot.php:973
+msgid "Blog Style"
+msgstr ""
+
+#: framework/settings-ot.php:974
+msgid "Select blog style."
+msgstr ""
+
+#: framework/settings-ot.php:988
+msgid "Fullwidth Featured Area"
+msgstr ""
+
+#: framework/settings-ot.php:993
+msgid "Compact Design"
+msgstr ""
+
+#: framework/settings-ot.php:1000
+msgid "Post Comments"
+msgstr ""
+
+#: framework/settings-ot.php:1001
+msgid "Set the post comments appearance."
+msgstr ""
+
+#: framework/settings-ot.php:1016
+msgid "404 Image"
+msgstr ""
+
+#: framework/settings-ot.php:1017
+msgid "Select 404 page image."
+msgstr ""
+
+#: framework/settings-ot.php:1031
+msgid "Widget Titles"
+msgstr ""
+
+#: framework/settings-ot.php:1032 framework/settings-ot.php:2953
+msgid "Select widget title size."
+msgstr ""
+
+#: framework/settings-ot.php:1073 framework/settings-ot.php:1350
+msgid "Left Sidebar #1"
+msgstr ""
+
+#: framework/settings-ot.php:1074 framework/settings-ot.php:1351
+msgid "Use left sidebar #1."
+msgstr ""
+
+#: framework/settings-ot.php:1088 framework/settings-ot.php:1365
+msgid "Left Sidebar #1 Width"
+msgstr ""
+
+#: framework/settings-ot.php:1089 framework/settings-ot.php:1366
+msgid "Set left sidebar #1 width."
+msgstr ""
+
+#: framework/settings-ot.php:1103 framework/settings-ot.php:1165
+#: framework/settings-ot.php:1227 framework/settings-ot.php:1289
+#: framework/settings-ot.php:1380 framework/settings-ot.php:1442
+#: framework/settings-ot.php:1504 framework/settings-ot.php:1566
+#: framework/settings-ot.php:1806 framework/settings-ot.php:2303
+msgid "Element Visibility"
+msgstr ""
+
+#: framework/settings-ot.php:1104 framework/settings-ot.php:1166
+#: framework/settings-ot.php:1228 framework/settings-ot.php:1290
+#: framework/settings-ot.php:1381 framework/settings-ot.php:1443
+#: framework/settings-ot.php:1505 framework/settings-ot.php:1567
+#: framework/settings-ot.php:1807 framework/settings-ot.php:2304
+msgid "Check responsive modes to hide the element."
+msgstr ""
+
+#: framework/settings-ot.php:1118 framework/settings-ot.php:1180
+#: framework/settings-ot.php:1242 framework/settings-ot.php:1304
+#: framework/settings-ot.php:1395 framework/settings-ot.php:1457
+#: framework/settings-ot.php:1519 framework/settings-ot.php:1581
+#: framework/settings-ot.php:1820 framework/settings-ot.php:2317
+#: framework/settings-ot.php:2515 framework/settings-ot.php:3113
+#: framework/settings-ot.php:3639
+msgid "Low Resolution / Mobile"
+msgstr ""
+
+#: framework/settings-ot.php:1123 framework/settings-ot.php:1185
+#: framework/settings-ot.php:1247 framework/settings-ot.php:1309
+#: framework/settings-ot.php:1400 framework/settings-ot.php:1462
+#: framework/settings-ot.php:1524 framework/settings-ot.php:1586
+#: framework/settings-ot.php:1825 framework/settings-ot.php:2322
+#: framework/settings-ot.php:2520 framework/settings-ot.php:3118
+#: framework/settings-ot.php:3644
+msgid "Medium Resolution / Tablet"
+msgstr ""
+
+#: framework/settings-ot.php:1128 framework/settings-ot.php:1190
+#: framework/settings-ot.php:1252 framework/settings-ot.php:1314
+#: framework/settings-ot.php:1405 framework/settings-ot.php:1467
+#: framework/settings-ot.php:1529 framework/settings-ot.php:1591
+#: framework/settings-ot.php:1830 framework/settings-ot.php:2327
+#: framework/settings-ot.php:2525 framework/settings-ot.php:3123
+#: framework/settings-ot.php:3649
+msgid "High Resolution / Laptop, Desktop"
+msgstr ""
+
+#: framework/settings-ot.php:1135 framework/settings-ot.php:1412
+msgid "Left Sidebar #2"
+msgstr ""
+
+#: framework/settings-ot.php:1136 framework/settings-ot.php:1413
+msgid "Use left sidebar #2."
+msgstr ""
+
+#: framework/settings-ot.php:1150 framework/settings-ot.php:1427
+msgid "Left Sidebar #2 Width"
+msgstr ""
+
+#: framework/settings-ot.php:1151 framework/settings-ot.php:1428
+msgid "Set left sidebar #2 width."
+msgstr ""
+
+#: framework/settings-ot.php:1197 framework/settings-ot.php:1474
+msgid "Right Sidebar #1"
+msgstr ""
+
+#: framework/settings-ot.php:1198 framework/settings-ot.php:1475
+msgid "Use right sidebar #1."
+msgstr ""
+
+#: framework/settings-ot.php:1212 framework/settings-ot.php:1489
+msgid "Right Sidebar #1 Width"
+msgstr ""
+
+#: framework/settings-ot.php:1213 framework/settings-ot.php:1490
+msgid "Set right sidebar #1 width."
+msgstr ""
+
+#: framework/settings-ot.php:1259 framework/settings-ot.php:1536
+msgid "Right Sidebar #2"
+msgstr ""
+
+#: framework/settings-ot.php:1260 framework/settings-ot.php:1537
+msgid "Use right sidebar #2."
+msgstr ""
+
+#: framework/settings-ot.php:1274 framework/settings-ot.php:1551
+msgid "Right Sidebar #2 Width"
+msgstr ""
+
+#: framework/settings-ot.php:1275 framework/settings-ot.php:1552
+msgid "Set right sidebar #2 width."
+msgstr ""
+
+#: framework/settings-ot.php:1321
+msgid "Create Sidebar Layouts"
+msgstr ""
+
+#: framework/settings-ot.php:1322
+msgid "Use the sidebar layout manager to create new sidebar layouts."
+msgstr ""
+
+#: framework/settings-ot.php:1335
+msgid "Sidebars Display Condition"
+msgstr ""
+
+#: framework/settings-ot.php:1336
+msgid ""
+"Enter condition when to show current sidebar layout. e.g. is_woocommerce"
+msgstr ""
+
+#: framework/settings-ot.php:1600
+msgid "Responsive Tablet Mode"
+msgstr ""
+
+#: framework/settings-ot.php:1601
+msgid "Set the minimum resolution for activating the tablet mode."
+msgstr ""
+
+#: framework/settings-ot.php:1615
+msgid "Responsive Tablet Custom CSS"
+msgstr ""
+
+#: framework/settings-ot.php:1616
+msgid "Write custom CSS for the tablet mode."
+msgstr ""
+
+#: framework/settings-ot.php:1630
+msgid "Responsive Mobile Mode"
+msgstr ""
+
+#: framework/settings-ot.php:1631
+msgid "Set the minimum resolution for activating the mobile mode."
+msgstr ""
+
+#: framework/settings-ot.php:1645
+msgid "Responsive Mobile Custom CSS"
+msgstr ""
+
+#: framework/settings-ot.php:1646
+msgid "Write custom CSS for the mobile mode."
+msgstr ""
+
+#: framework/settings-ot.php:1715 framework/settings-ot.php:1721
+#: framework/settings-ot.php:1854 framework/settings-woocommerce.php:240
+msgid "None"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Grow"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Shrink"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Pulse"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Push"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Pop"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Rotate"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Grow Rotate"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Float"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Sink"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bob"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Hang"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Skew"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Skew Forward"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Skew Backward"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Wobble Horizontal"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Wobble Vertical"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Wobble To Bottom Right"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Wobble To Top Right"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Wobble Top"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Wobble Bottom"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Wobble Skew"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Buzz"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Buzz Out"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Fade"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Sweep To Right"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Sweep To Left"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Sweep To Bottom"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Sweep To Top"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bounce To Right"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bounce To Left"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bounce To Bottom"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bounce To Top"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Radial Out"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Rectangle Out"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Shutter Out Horizontal"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Shutter Out Vertical"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Ripple Out"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Ripple In"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Underline From Left"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Underline From Center"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Underline From Right"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Underline Reveal"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Overline Reveal"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Overline From Left"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Overline From Center"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Overline From Right"
+msgstr ""
+
+#: framework/settings-ot.php:1715 framework/settings-ot.php:2774
+#: framework/settings-ot.php:3299 framework/settings-ot.php:3825
+msgid "Shadow"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Grow Shadow"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Float Shadow"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Glow"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Shadow Radial"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Box Shadow Outset"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Box Shadow Inset"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bubble Top"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bubble Right"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bubble Bottom"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bubble Left"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bubble Float Top"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bubble Float Right"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bubble Float Bottom"
+msgstr ""
+
+#: framework/settings-ot.php:1715
+msgid "Bubble Float Left"
+msgstr ""
+
+#: framework/settings-ot.php:1742
+msgid "px"
+msgstr ""
+
+#: framework/settings-ot.php:1750
+msgid "Select Type"
+msgstr ""
+
+#: framework/settings-ot.php:1751
+msgid "Select row type."
+msgstr ""
+
+#: framework/settings-ot.php:1764
+msgid "Layout #1"
+msgstr ""
+
+#: framework/settings-ot.php:1769
+msgid "Layout #2"
+msgstr ""
+
+#: framework/settings-ot.php:1774
+msgid "Layout #3"
+msgstr ""
+
+#: framework/settings-ot.php:1779
+msgid "Layout #4"
+msgstr ""
+
+#: framework/settings-ot.php:1784
+msgid "Layout #5"
+msgstr ""
+
+#: framework/settings-ot.php:1789
+msgid "Layout #6"
+msgstr ""
+
+#: framework/settings-ot.php:1794
+msgid "Layout #7"
+msgstr ""
+
+#: framework/settings-ot.php:1799
+msgid "Layout #8"
+msgstr ""
+
+#: framework/settings-ot.php:1840
+msgid "Select Element"
+msgstr ""
+
+#: framework/settings-ot.php:1841
+msgid "Select element type."
+msgstr ""
+
+#: framework/settings-ot.php:1859
+msgid "Text/HTML"
+msgstr ""
+
+#: framework/settings-ot.php:1864
+msgid "User Login/Registration"
+msgstr ""
+
+#: framework/settings-ot.php:1869
+msgid "User Login"
+msgstr ""
+
+#: framework/settings-ot.php:1874
+msgid "User Registration"
+msgstr ""
+
+#: framework/settings-ot.php:1879
+msgid "Image Link"
+msgstr ""
+
+#: framework/settings-ot.php:1884
+msgid "Line Break"
+msgstr ""
+
+#: framework/settings-ot.php:1889 framework/settings-ot.php:2110
+msgid "Menu"
+msgstr ""
+
+#: framework/settings-ot.php:1894
+msgid "Site Logo"
+msgstr ""
+
+#: framework/settings-ot.php:1899
+msgid "Site Title and Description"
+msgstr ""
+
+#: framework/settings-ot.php:1904
+msgid "Site Title"
+msgstr ""
+
+#: framework/settings-ot.php:1909
+msgid "Site Desctiption"
+msgstr ""
+
+#: framework/settings-ot.php:1914 framework/settings-ot.php:1960
+msgid "Social Network"
+msgstr ""
+
+#: framework/settings-ot.php:1919 framework/settings-ot.php:2676
+#: framework/settings-ot.php:3201 framework/settings-ot.php:3727
+msgid "Separator"
+msgstr ""
+
+#: framework/settings-ot.php:1924 searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: framework/settings-ot.php:1929
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/settings-ot.php:1934
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: framework/settings-ot.php:1939
+msgid "WooCommerce Search"
+msgstr ""
+
+#: framework/settings-ot.php:1946 framework/settings-ot.php:2020
+#: framework/settings-ot.php:2051
+msgid "Text"
+msgstr ""
+
+#: framework/settings-ot.php:1947
+msgid "Enter text."
+msgstr ""
+
+#: framework/settings-ot.php:1961
+msgid "Select social network icon."
+msgstr ""
+
+#: framework/settings-ot.php:1974
+msgid "Facebook"
+msgstr ""
+
+#: framework/settings-ot.php:1979
+msgid "Twitter"
+msgstr ""
+
+#: framework/settings-ot.php:1984
+msgid "Google Plus"
+msgstr ""
+
+#: framework/settings-ot.php:1989
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/settings-ot.php:1994
+msgid "Delicious"
+msgstr ""
+
+#: framework/settings-ot.php:1999
+msgid "Pinterest"
+msgstr ""
+
+#: framework/settings-ot.php:2006
+msgid "Element Icon"
+msgstr ""
+
+#: framework/settings-ot.php:2007
+msgid "Select element icon type."
+msgstr ""
+
+#: framework/settings-ot.php:2025 framework/settings-ot.php:2056
+#: framework/settings-ot.php:2691 framework/settings-ot.php:3216
+#: framework/settings-ot.php:3742
+msgid "Button"
+msgstr ""
+
+#: framework/settings-ot.php:2030 framework/settings-ot.php:2061
+msgid "Line Icon"
+msgstr ""
+
+#: framework/settings-ot.php:2037
+msgid "Cart Icon"
+msgstr ""
+
+#: framework/settings-ot.php:2038
+msgid "Select cart icon type."
+msgstr ""
+
+#: framework/settings-ot.php:2068
+msgid "Image"
+msgstr ""
+
+#: framework/settings-ot.php:2069
+msgid "Select image."
+msgstr ""
+
+#: framework/settings-ot.php:2082
+msgid "Image Hover"
+msgstr ""
+
+#: framework/settings-ot.php:2083
+msgid "Select image on hover."
+msgstr ""
+
+#: framework/settings-ot.php:2096
+msgid "URL"
+msgstr ""
+
+#: framework/settings-ot.php:2097
+msgid "Enter link URL."
+msgstr ""
+
+#: framework/settings-ot.php:2111
+msgid "Select menu."
+msgstr ""
+
+#: framework/settings-ot.php:2125 framework/sk-menu.php:26
+msgid "Menu Style"
+msgstr ""
+
+#: framework/settings-ot.php:2126
+msgid "Select menu style."
+msgstr ""
+
+#: framework/settings-ot.php:2139
+msgid "Without Margin"
+msgstr ""
+
+#: framework/settings-ot.php:2144
+msgid "With Margin"
+msgstr ""
+
+#: framework/settings-ot.php:2149
+msgid "With Separator"
+msgstr ""
+
+#: framework/settings-ot.php:2156
+msgid "Menu Effect"
+msgstr ""
+
+#: framework/settings-ot.php:2157
+msgid "Select menu effect."
+msgstr ""
+
+#: framework/settings-ot.php:2171
+msgid "Menu Font"
+msgstr ""
+
+#: framework/settings-ot.php:2172
+msgid "Select menu font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2185
+msgid "Menu Font Hover Color"
+msgstr ""
+
+#: framework/settings-ot.php:2186
+msgid "Select the menu font hover color. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:2200
+msgid "Menu Active Color"
+msgstr ""
+
+#: framework/settings-ot.php:2201
+msgid "Select the menu active color. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:2215
+msgid " Sub-Menu Font"
+msgstr ""
+
+#: framework/settings-ot.php:2216
+msgid "Select sub-menu font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2229
+msgid "Sub-Menu Font Hover Color"
+msgstr ""
+
+#: framework/settings-ot.php:2230
+msgid "Select the sub-menu font hover color. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:2244
+msgid "Sub-Menu Background Color"
+msgstr ""
+
+#: framework/settings-ot.php:2245
+msgid "Select the sub-menu background color. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:2259
+msgid "Sub-Menu Hover Background Color"
+msgstr ""
+
+#: framework/settings-ot.php:2260
+msgid "Select the sub-menu hover background color. Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:2274
+msgid "Element Height"
+msgstr ""
+
+#: framework/settings-ot.php:2275
+msgid "Set element height."
+msgstr ""
+
+#: framework/settings-ot.php:2289
+msgid "Extra Class"
+msgstr ""
+
+#: framework/settings-ot.php:2290
+msgid "Enter CSS class to add to element."
+msgstr ""
+
+#: framework/settings-ot.php:2352
+msgid "Mode"
+msgstr ""
+
+#: framework/settings-ot.php:2353 framework/settings-ot.php:2422
+#: framework/settings-ot.php:2454 framework/settings-ot.php:2533
+#: framework/settings-ot.php:2692 framework/settings-ot.php:2718
+#: framework/settings-ot.php:3011 framework/settings-ot.php:3217
+#: framework/settings-ot.php:3243 framework/settings-ot.php:3537
+#: framework/settings-ot.php:3743 framework/settings-ot.php:3769
+msgid "Set the "
+msgstr ""
+
+#: framework/settings-ot.php:2353 framework/settings-ot.php:2454
+msgid " inner elements vertical align."
+msgstr ""
+
+#: framework/settings-ot.php:2367
+msgid "Elements on Left and Right"
+msgstr ""
+
+#: framework/settings-ot.php:2372
+msgid "Elements in Center"
+msgstr ""
+
+#: framework/settings-ot.php:2377 framework/settings-ot.php:2389
+msgid "Elements on Left"
+msgstr ""
+
+#: framework/settings-ot.php:2382 framework/settings-ot.php:2405
+msgid "Elements on Right"
+msgstr ""
+
+#: framework/settings-ot.php:2390 framework/settings-ot.php:2406
+msgid "Use the manager to add elements to the "
+msgstr ""
+
+#: framework/settings-ot.php:2390 framework/settings-ot.php:2406
+#: framework/settings-ot.php:2775 framework/settings-ot.php:2995
+#: framework/settings-ot.php:3300 framework/settings-ot.php:3826
+msgid " area."
+msgstr ""
+
+#: framework/settings-ot.php:2421
+msgid "Outer Elements Align"
+msgstr ""
+
+#: framework/settings-ot.php:2422
+msgid " outer elements vertical align."
+msgstr ""
+
+#: framework/settings-ot.php:2436 framework/settings-ot.php:2468
+msgid "Top"
+msgstr ""
+
+#: framework/settings-ot.php:2441 framework/settings-ot.php:2473
+msgid "Middle"
+msgstr ""
+
+#: framework/settings-ot.php:2446 framework/settings-ot.php:2478
+msgid "Bottom"
+msgstr ""
+
+#: framework/settings-ot.php:2453
+msgid "Inner Elements Align"
+msgstr ""
+
+#: framework/settings-ot.php:2485 framework/settings-ot.php:3083
+#: framework/settings-ot.php:3609
+msgid "Display Condition"
+msgstr ""
+
+#: framework/settings-ot.php:2486 framework/settings-ot.php:3084
+#: framework/settings-ot.php:3610
+msgid "Enter condition when to show the "
+msgstr ""
+
+#: framework/settings-ot.php:2486 framework/settings-ot.php:3084
+#: framework/settings-ot.php:3610
+msgid ". e.g. is_woocommerce"
+msgstr ""
+
+#: framework/settings-ot.php:2500 framework/settings-ot.php:3098
+#: framework/settings-ot.php:3624
+msgid "Responsive Visibility"
+msgstr ""
+
+#: framework/settings-ot.php:2501 framework/settings-ot.php:3099
+#: framework/settings-ot.php:3625
+msgid "Check responsive modes to hide the "
+msgstr ""
+
+#: framework/settings-ot.php:2501 framework/settings-ot.php:3099
+#: framework/settings-ot.php:3625
+msgid "."
+msgstr ""
+
+#: framework/settings-ot.php:2532 framework/settings-ot.php:3010
+#: framework/settings-ot.php:3536
+msgid "Type"
+msgstr ""
+
+#: framework/settings-ot.php:2533 framework/settings-ot.php:3011
+#: framework/settings-ot.php:3537
+msgid " section type."
+msgstr ""
+
+#: framework/settings-ot.php:2547 framework/settings-ot.php:3025
+#: framework/settings-ot.php:3551
+msgid "Normal"
+msgstr ""
+
+#: framework/settings-ot.php:2552 framework/settings-ot.php:3030
+#: framework/settings-ot.php:3556
+msgid "Collapsible with close icon"
+msgstr ""
+
+#: framework/settings-ot.php:2557 framework/settings-ot.php:3035
+#: framework/settings-ot.php:3561
+msgid "Collapsible with dismiss icon"
+msgstr ""
+
+#: framework/settings-ot.php:2562 framework/settings-ot.php:3040
+#: framework/settings-ot.php:3566
+msgid "Collapsed with open icon"
+msgstr ""
+
+#: framework/settings-ot.php:2567 framework/settings-ot.php:3045
+#: framework/settings-ot.php:3571
+msgid "Always collapsed with open icon"
+msgstr ""
+
+#: framework/settings-ot.php:2572 framework/settings-ot.php:3050
+#: framework/settings-ot.php:3576
+msgid "Collapsible with custom trigger"
+msgstr ""
+
+#: framework/settings-ot.php:2577 framework/settings-ot.php:3055
+#: framework/settings-ot.php:3581
+msgid "Collapsed with custom trigger"
+msgstr ""
+
+#: framework/settings-ot.php:2582 framework/settings-ot.php:3060
+#: framework/settings-ot.php:3586
+msgid "Always collapsed with custom trigger"
+msgstr ""
+
+#: framework/settings-ot.php:2589 framework/settings-ot.php:3067
+#: framework/settings-ot.php:3593
+msgid "Icons Size"
+msgstr ""
+
+#: framework/settings-ot.php:2590 framework/settings-ot.php:3068
+#: framework/settings-ot.php:3594
+msgid "Set collapse type icons height."
+msgstr ""
+
+#: framework/settings-ot.php:2605 framework/settings-ot.php:3130
+#: framework/settings-ot.php:3656
+msgid "Padding"
+msgstr ""
+
+#: framework/settings-ot.php:2606 framework/settings-ot.php:3131
+#: framework/settings-ot.php:3657
+msgid "Enter padding for the "
+msgstr ""
+
+#: framework/settings-ot.php:2606 framework/settings-ot.php:3131
+#: framework/settings-ot.php:3657
+msgid ". e.g. 10px 0px 10px 0px"
+msgstr ""
+
+#: framework/settings-ot.php:2620 framework/settings-ot.php:3145
+#: framework/settings-ot.php:3671
+msgid "Font"
+msgstr ""
+
+#: framework/settings-ot.php:2621 framework/settings-ot.php:2744
+#: framework/settings-ot.php:2790 framework/settings-ot.php:2816
+#: framework/settings-ot.php:2842 framework/settings-ot.php:2868
+#: framework/settings-ot.php:2894 framework/settings-ot.php:2920
+#: framework/settings-ot.php:3146 framework/settings-ot.php:3269
+#: framework/settings-ot.php:3315 framework/settings-ot.php:3341
+#: framework/settings-ot.php:3367 framework/settings-ot.php:3393
+#: framework/settings-ot.php:3419 framework/settings-ot.php:3445
+#: framework/settings-ot.php:3672 framework/settings-ot.php:3795
+#: framework/settings-ot.php:3841 framework/settings-ot.php:3867
+#: framework/settings-ot.php:3893 framework/settings-ot.php:3919
+#: framework/settings-ot.php:3945 framework/settings-ot.php:3971
+msgid "Select "
+msgstr ""
+
+#: framework/settings-ot.php:2621 framework/settings-ot.php:3146
+#: framework/settings-ot.php:3672
+msgid " font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2646 framework/settings-ot.php:3171
+#: framework/settings-ot.php:3697
+msgid "Link"
+msgstr ""
+
+#: framework/settings-ot.php:2647 framework/settings-ot.php:3172
+#: framework/settings-ot.php:3698
+msgid "Select the link color in the "
+msgstr ""
+
+#: framework/settings-ot.php:2647 framework/settings-ot.php:2662
+#: framework/settings-ot.php:2677 framework/settings-ot.php:2760
+#: framework/settings-ot.php:3172 framework/settings-ot.php:3187
+#: framework/settings-ot.php:3202 framework/settings-ot.php:3285
+#: framework/settings-ot.php:3698 framework/settings-ot.php:3713
+#: framework/settings-ot.php:3728 framework/settings-ot.php:3811
+msgid ". Color opacity is supported."
+msgstr ""
+
+#: framework/settings-ot.php:2661 framework/settings-ot.php:3186
+#: framework/settings-ot.php:3712
+msgid "Link Hover"
+msgstr ""
+
+#: framework/settings-ot.php:2662 framework/settings-ot.php:3187
+#: framework/settings-ot.php:3713
+msgid "Select the link hover color in the "
+msgstr ""
+
+#: framework/settings-ot.php:2677 framework/settings-ot.php:3202
+#: framework/settings-ot.php:3728
+msgid "Select the separator color in the "
+msgstr ""
+
+#: framework/settings-ot.php:2692 framework/settings-ot.php:3217
+#: framework/settings-ot.php:3743
+msgid " button settings. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2717 framework/settings-ot.php:3242
+#: framework/settings-ot.php:3768
+msgid "Button Hover"
+msgstr ""
+
+#: framework/settings-ot.php:2718 framework/settings-ot.php:3243
+#: framework/settings-ot.php:3769
+msgid ""
+" button hover settings. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2743 framework/settings-ot.php:3268
+#: framework/settings-ot.php:3794
+msgid "Button Style"
+msgstr ""
+
+#: framework/settings-ot.php:2744 framework/settings-ot.php:3269
+#: framework/settings-ot.php:3795
+msgid " button style."
+msgstr ""
+
+#: framework/settings-ot.php:2759
+msgid "Background"
+msgstr ""
+
+#: framework/settings-ot.php:2760 framework/settings-ot.php:3285
+#: framework/settings-ot.php:3811
+msgid "Select the background color for the "
+msgstr ""
+
+#: framework/settings-ot.php:2775 framework/settings-ot.php:3300
+#: framework/settings-ot.php:3826
+msgid "Create a shadow for the "
+msgstr ""
+
+#: framework/settings-ot.php:2789 framework/settings-ot.php:3314
+#: framework/settings-ot.php:3840
+msgid "H1 Font"
+msgstr ""
+
+#: framework/settings-ot.php:2790 framework/settings-ot.php:3315
+#: framework/settings-ot.php:3841
+msgid " h1 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2815 framework/settings-ot.php:3340
+#: framework/settings-ot.php:3866
+msgid "H2 Font"
+msgstr ""
+
+#: framework/settings-ot.php:2816 framework/settings-ot.php:3341
+#: framework/settings-ot.php:3867
+msgid " h2 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2841 framework/settings-ot.php:3366
+#: framework/settings-ot.php:3892
+msgid "H3 Font"
+msgstr ""
+
+#: framework/settings-ot.php:2842 framework/settings-ot.php:3367
+#: framework/settings-ot.php:3893
+msgid " h3 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2867 framework/settings-ot.php:3392
+#: framework/settings-ot.php:3918
+msgid "H4 Font"
+msgstr ""
+
+#: framework/settings-ot.php:2868 framework/settings-ot.php:3393
+#: framework/settings-ot.php:3919
+msgid " h4 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2893 framework/settings-ot.php:3418
+#: framework/settings-ot.php:3944
+msgid "H5 Font"
+msgstr ""
+
+#: framework/settings-ot.php:2894 framework/settings-ot.php:3419
+#: framework/settings-ot.php:3945
+msgid " h5 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2919 framework/settings-ot.php:3444
+#: framework/settings-ot.php:3970
+msgid "H6 Font"
+msgstr ""
+
+#: framework/settings-ot.php:2920 framework/settings-ot.php:3445
+#: framework/settings-ot.php:3971
+msgid " h6 font. Use system fonts, included fonts or Google Fonts."
+msgstr ""
+
+#: framework/settings-ot.php:2952
+msgid "Widget Title"
+msgstr ""
+
+#: framework/settings-ot.php:2994
+msgid "Rows"
+msgstr ""
+
+#: framework/settings-ot.php:2995
+msgid "Use the manager to add rows to the "
+msgstr ""
+
+#: framework/settings-ot.php:3284 framework/settings-ot.php:3810
+msgid " Background"
+msgstr ""
+
+#: framework/settings-ot.php:3470
+msgid "Custom Margins"
+msgstr ""
+
+#: framework/settings-ot.php:3471
+msgid "Enable custom margins for ."
+msgstr ""
+
+#: framework/settings-ot.php:3500
+msgid "Rows Margin"
+msgstr ""
+
+#: framework/settings-ot.php:3521 framework/settings-ot.php:4008
+msgid "Content"
+msgstr ""
+
+#: framework/settings-ot.php:3522
+msgid "Enter content for the "
+msgstr ""
+
+#: framework/settings-ot.php:3522
+msgid " section."
+msgstr ""
+
+#: framework/settings-ot.php:4012
+msgid "Style"
+msgstr ""
+
+#: framework/settings-ot.php:4016
+msgid "Collapsible"
+msgstr ""
+
+#: framework/settings-ot.php:4020
+msgid "Visibility"
+msgstr ""
+
+#: framework/settings-ot.php:4046
+msgid " Updated"
+msgstr ""
+
+#: framework/settings-ot.php:4047
+msgid " Reset"
+msgstr ""
+
+#: framework/settings-ot.php:4108
+msgid "Left Sidebar 1"
+msgstr ""
+
+#: framework/settings-ot.php:4114
+msgid "Left Sidebar #1."
+msgstr ""
+
+#: framework/settings-ot.php:4118
+msgid "Left Sidebar 2"
+msgstr ""
+
+#: framework/settings-ot.php:4124
+msgid "Left Sidebar #2."
+msgstr ""
+
+#: framework/settings-ot.php:4128
+msgid "Right Sidebar 1"
+msgstr ""
+
+#: framework/settings-ot.php:4134
+msgid "Right Sidebar #1."
+msgstr ""
+
+#: framework/settings-ot.php:4138
+msgid "Right Sidebar 2"
+msgstr ""
+
+#: framework/settings-ot.php:4144
+msgid "Right Sidebar #2."
+msgstr ""
+
+#: framework/settings-ot.php:4185
+msgid "Widget Area"
+msgstr ""
+
+#: framework/settings-ot.php:4206 framework/settings-ot.php:4210
+#: framework/settings-shopkit.php:227 framework/settings-shopkit.php:232
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/settings-ot.php:4214 framework/settings-ot.php:4218
+#: framework/settings-shopkit.php:237 framework/settings-shopkit.php:242
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/settings-ot.php:4242
+msgid "Sidebar"
+msgstr ""
+
+#: framework/settings-woocommerce.php:35
+msgid "Shop/Product Archives"
+msgstr ""
+
+#: framework/settings-woocommerce.php:40
+msgid "Single Product Pages"
+msgstr ""
+
+#: framework/settings-woocommerce.php:52 framework/settings-woocommerce.php:72
+#: framework/settings-woocommerce.php:77 framework/settings-woocommerce.php:82
+#: framework/settings-woocommerce.php:87 framework/settings-woocommerce.php:92
+#: framework/settings-woocommerce.php:469
+#: framework/settings-woocommerce.php:474
+#: framework/settings-woocommerce.php:479
+#: framework/settings-woocommerce.php:484
+#: framework/settings-woocommerce.php:489
+#: framework/settings-woocommerce.php:494
+#: framework/settings-woocommerce.php:499
+#: framework/settings-woocommerce.php:527
+#: framework/settings-woocommerce.php:532
+#: framework/settings-woocommerce.php:537
+#: framework/settings-woocommerce.php:542
+#: framework/settings-woocommerce.php:547
+#: framework/settings-woocommerce.php:552
+#: framework/settings-woocommerce.php:557
+msgid "Product Columns"
+msgstr ""
+
+#: framework/settings-woocommerce.php:53
+msgid "Set the product columns."
+msgstr ""
+
+#: framework/settings-woocommerce.php:67 framework/settings-woocommerce.php:464
+#: framework/settings-woocommerce.php:522
+msgid "Product Column"
+msgstr ""
+
+#: framework/settings-woocommerce.php:100
+#: framework/settings-woocommerce.php:115
+#: framework/settings-woocommerce.php:120
+#: framework/settings-woocommerce.php:125
+#: framework/settings-woocommerce.php:130
+#: framework/settings-woocommerce.php:135
+#: framework/settings-woocommerce.php:140
+#: framework/settings-woocommerce.php:145
+msgid "Category Columns"
+msgstr ""
+
+#: framework/settings-woocommerce.php:101
+msgid "Set the category columns."
+msgstr ""
+
+#: framework/settings-woocommerce.php:153
+msgid "Products Per Page"
+msgstr ""
+
+#: framework/settings-woocommerce.php:154
+msgid "Set the number of products per page."
+msgstr ""
+
+#: framework/settings-woocommerce.php:169
+msgid "Filter Template Position"
+msgstr ""
+
+#: framework/settings-woocommerce.php:170
+msgid "Set position of the Order By/Product Filter templates."
+msgstr ""
+
+#: framework/settings-woocommerce.php:184
+msgid "Before Content and Sidebars"
+msgstr ""
+
+#: framework/settings-woocommerce.php:189
+msgid "Before Content"
+msgstr ""
+
+#: framework/settings-woocommerce.php:197
+msgid "Product Style"
+msgstr ""
+
+#: framework/settings-woocommerce.php:198
+msgid "Set the product style."
+msgstr ""
+
+#: framework/settings-woocommerce.php:212 framework/sk-menu.php:28
+msgid "Default"
+msgstr ""
+
+#: framework/settings-woocommerce.php:217
+msgid "Separator Border"
+msgstr ""
+
+#: framework/settings-woocommerce.php:225
+msgid "Image Effect"
+msgstr ""
+
+#: framework/settings-woocommerce.php:226
+msgid "Set the product image effect."
+msgstr ""
+
+#: framework/settings-woocommerce.php:245
+msgid "Fade (Uses first gallery image as second image)"
+msgstr ""
+
+#: framework/settings-woocommerce.php:250
+msgid "Flip Horizontal (Uses first gallery image as second image)"
+msgstr ""
+
+#: framework/settings-woocommerce.php:255
+msgid "Flip Vertical (Uses first gallery image as second image)"
+msgstr ""
+
+#: framework/settings-woocommerce.php:260
+msgid "Zoom"
+msgstr ""
+
+#: framework/settings-woocommerce.php:265
+msgid "Zoom and Fade (Uses first gallery image as second image)"
+msgstr ""
+
+#: framework/settings-woocommerce.php:273
+msgid "Product Title"
+msgstr ""
+
+#: framework/settings-woocommerce.php:274
+msgid "Hide title from shop pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:282
+#: framework/settings-woocommerce.php:582
+msgid "Product Rating"
+msgstr ""
+
+#: framework/settings-woocommerce.php:283
+msgid "Hide rating from shop pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:291
+#: framework/settings-woocommerce.php:591
+msgid "Product Price"
+msgstr ""
+
+#: framework/settings-woocommerce.php:292
+msgid "Hide price from shop pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:300
+#: framework/settings-woocommerce.php:600
+msgid "Product Description"
+msgstr ""
+
+#: framework/settings-woocommerce.php:301
+msgid "Hide description from shop pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:309
+#: framework/settings-woocommerce.php:609
+msgid "Product Add to Cart"
+msgstr ""
+
+#: framework/settings-woocommerce.php:310
+msgid "Hide add to cart from shop pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:319
+msgid "Single Product Image Position"
+msgstr ""
+
+#: framework/settings-woocommerce.php:320
+msgid "Set the single product page image position."
+msgstr ""
+
+#: framework/settings-woocommerce.php:334
+msgid "Product Image on Left"
+msgstr ""
+
+#: framework/settings-woocommerce.php:339
+msgid "Product Image on Right"
+msgstr ""
+
+#: framework/settings-woocommerce.php:344
+msgid "Product Image Full Width"
+msgstr ""
+
+#: framework/settings-woocommerce.php:353
+msgid "Product Thumbnails Columns"
+msgstr ""
+
+#: framework/settings-woocommerce.php:354
+msgid "Set the product thumbnails columns."
+msgstr ""
+
+#: framework/settings-woocommerce.php:368
+#: framework/settings-woocommerce.php:373
+#: framework/settings-woocommerce.php:378
+#: framework/settings-woocommerce.php:383
+#: framework/settings-woocommerce.php:388
+#: framework/settings-woocommerce.php:393
+#: framework/settings-woocommerce.php:398
+#: framework/settings-woocommerce.php:403
+#: framework/settings-woocommerce.php:408
+msgid "Columns"
+msgstr ""
+
+#: framework/settings-woocommerce.php:416
+msgid "Single Product Image Size"
+msgstr ""
+
+#: framework/settings-woocommerce.php:417
+msgid "Set the single product page image size."
+msgstr ""
+
+#: framework/settings-woocommerce.php:431
+msgid "50% Width"
+msgstr ""
+
+#: framework/settings-woocommerce.php:436
+msgid "33% Width"
+msgstr ""
+
+#: framework/settings-woocommerce.php:441
+msgid "25% Width"
+msgstr ""
+
+#: framework/settings-woocommerce.php:449
+msgid "Upsell Product Columns"
+msgstr ""
+
+#: framework/settings-woocommerce.php:450
+msgid "Set the upsell product columns."
+msgstr ""
+
+#: framework/settings-woocommerce.php:507
+msgid "Related Product Columns"
+msgstr ""
+
+#: framework/settings-woocommerce.php:508
+msgid "Set the related product columns."
+msgstr ""
+
+#: framework/settings-woocommerce.php:565
+msgid "Disable Sidebars on Products"
+msgstr ""
+
+#: framework/settings-woocommerce.php:566
+msgid "Hide sidebars from single product pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:583
+msgid "Hide rating from single product pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:592
+msgid "Hide price from single product pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:601
+msgid "Hide description from single product pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:610
+msgid "Hide add to cart from single product pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:618
+msgid "Product Meta"
+msgstr ""
+
+#: framework/settings-woocommerce.php:619
+msgid "Hide product meta from single product pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:627
+msgid "Product Up-Sells"
+msgstr ""
+
+#: framework/settings-woocommerce.php:628
+msgid "Hide product up-sells from single product pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:636
+msgid "Product Tabs"
+msgstr ""
+
+#: framework/settings-woocommerce.php:637
+msgid "Hide tabs from single product pages."
+msgstr ""
+
+#: framework/settings-woocommerce.php:645
+msgid "Product Related"
+msgstr ""
+
+#: framework/settings-woocommerce.php:646
+msgid "Hide related products from single product pages."
+msgstr ""
+
+#: framework/settings-wordpress.php:16
+msgid "Menu locations are defined in ShopKit options!"
+msgstr ""
+
+#: framework/sk-demo-install.php:50
+msgid "Preparing images installation"
+msgstr ""
+
+#: framework/sk-demo-install.php:68 framework/sk-demo-install.php:87
+msgid "Adding demo content"
+msgstr ""
+
+#: framework/sk-demo-install.php:95
+msgid "Downloading and processing image ## out of"
+msgstr ""
+
+#: framework/sk-demo-install.php:117
+msgid "Adding widgets"
+msgstr ""
+
+#: framework/sk-demo-install.php:142
+msgid "Adding plugin options"
+msgstr ""
+
+#: framework/sk-demo-install.php:158
+msgid "Finishing up"
+msgstr ""
+
+#: framework/sk-demo-install.php:192
+msgid "All done! Have fun with ShopKit!"
+msgstr ""
+
+#: framework/sk-demo.php:9
+msgid "Demo requires following plugins to be installed and active!"
+msgstr ""
+
+#: framework/sk-demo.php:10
+msgid ""
+"Please install and activate following plugins to enable the demo "
+"installation process."
+msgstr ""
+
+#: framework/sk-demo.php:27
+msgid "To start installation click the Install Demo Content button."
+msgstr ""
+
+#: framework/sk-demo.php:33
+msgid "Install Demo Content"
+msgstr ""
+
+#: framework/sk-menu.php:29
+msgid "Multi Column"
+msgstr ""
+
+#: framework/sk-menu.php:35
+msgid "Background image"
+msgstr ""
+
+#: framework/sk-menu.php:38
+msgid "Add Image"
+msgstr ""
+
+#: framework/sk-menu.php:42
+msgid "Background orientation"
+msgstr ""
+
+#: framework/sk-menu.php:44
+msgid "Left Landscape"
+msgstr ""
+
+#: framework/sk-menu.php:45
+msgid "Left Portraid"
+msgstr ""
+
+#: framework/sk-menu.php:46
+msgid "Right Landscape"
+msgstr ""
+
+#: framework/sk-menu.php:47
+msgid "Right Portraid"
+msgstr ""
+
+#: framework/sk-menu.php:48
+msgid "Pattern"
+msgstr ""
+
+#: framework/sk-menu.php:49
+msgid "Cover"
+msgstr ""
+
+#: searchform.php:8
+msgid "Enter keywords"
+msgstr ""
+
+#: searchform.php:8
+msgid "Search for"
+msgstr ""

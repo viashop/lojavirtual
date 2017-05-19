@@ -1,0 +1,113 @@
+/*------------------------------------------------------------------
+[Newscodes Woocommerce Extension CSS]
+
+[Table of contents]
+
+1. General
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[General]
+-------------------------------------------------------------------*/
+
+.newscodes .nc-woo a.nc-read-more {
+	position: relative;
+	line-height: 30px !important;
+	padding: 6px 24px !important;
+	vertical-align: middle !important;
+	margin-left: 0 !important;
+}
+	.newscodes .nc-woo a.nc-loading.add_to_cart_button.nc-read-more:after {
+		content:'';
+		position:absolute;
+		top:0;
+		left:100%;
+		height:100%;
+		width:36px;
+		background:url(loading.gif) center center no-repeat;
+		background-size:20px;
+	}
+
+.newscodes .nc-woo > span {
+	margin-right:10px;
+	vertical-align: middle !important;
+}
+	.newscodes .nc-woo > span span {
+		margin-right:5px;
+	}
+
+.newscodes .nc-woo-prices {
+	line-height: 30px !important;
+}
+.newscodes .nc-woo-regular-price {
+	font-weight: 500;
+}
+.newscodes .nc-woo-sale-price {
+	position:relative;
+	opacity:0.6;
+	vertical-align: super;
+}
+	.newscodes .nc-woo-sale-price:after {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 50%;
+		left: -10%;
+		width: 120%;
+		height: 1px;
+		background-color: #222;
+		-webkit-transform: rotate(-5deg);
+		-moz-transform: rotate(-5deg);
+		-ms-transform: rotate(-5deg);
+		-o-transform: rotate(-5deg);
+		transform: rotate(-5deg);
+	}
+	.newscodes-woo.nc-type-news-grid ul.newscodes-wrap li p.nc-woo,
+	.newscodes-woo.nc-type-news-grid-author ul.newscodes-wrap li p.nc-woo,
+	.newscodes-woo.newscodes ul.newscodes-wrap li.nc-featured p.nc-woo {
+		margin-bottom: 40px;
+	}
+	.newscodes-woo.newscodes.nc-type-news-poster ul.newscodes-wrap li.nc-featured:only-child p.nc-woo {
+		margin-bottom:0;
+	}
+
+.newscodes-woo.nc-type-news-marquee ul li.nc-regular > * {
+	display: inline-block !important;
+	margin-top:5px !important;
+	margin-bottom:5px !important;
+	margin-right:20px !important;
+}
+.newscodes-woo.nc-type-news-marquee ul li.nc-regular  .nc-woo-prices {
+	vertical-align: initial;
+}
+.newscodes-woo.nc-type-news-poster ul li.nc-regular > *,
+.newscodes-woo.nc-type-news-list-author-compact-featured ul li.nc-regular > *,
+.newscodes-woo.nc-type-news-ticker-tiny ul li.nc-regular > *,
+.newscodes-woo.nc-type-news-list-compact ul li.nc-regular > *,
+.newscodes-woo.nc-type-news-columned-featured-list-compact ul li.nc-regular > *,
+.newscodes-woo.nc-type-news-list-compact-featured ul li.nc-regular > * {
+	display: inline-block !important;
+	vertical-align: middle !important;
+	margin-right:20px !important;
+	margin-top:5px !important;
+	margin-bottom:5px !important;
+}
+.newscodes-multi .nc-multi-navigation.nc-type-woo-poster {
+	position:absolute;
+	top:40px;
+	left:37px;
+	right:37px;
+	z-index:4;
+}
+.newscodes-multi .nc-multi-navigation.nc-type-woo-list-author-featured,
+.newscodes-multi .nc-multi-navigation.nc-type-woo-list-author-compact-featured,
+.newscodes-multi .nc-multi-navigation.nc-type-woo-list-author-tiny-featured,
+.newscodes-multi .nc-multi-navigation.nc-type-woo-list-featured,
+.newscodes-multi .nc-multi-navigation.nc-type-woo-list-tiny-featured,
+.newscodes-multi .nc-multi-navigation.nc-type-woo-list-compact-featured {
+	position:absolute;
+	top:10px;
+	left:10px;
+	right:4px;
+	z-index:4;
+}

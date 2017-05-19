@@ -1,0 +1,99 @@
+.wdgtclrzr-widget h4 {
+	margin:0;
+	margin-top:14px;
+	font-size:14px;
+	text-transform: uppercase;
+	border-radius:6px;
+	background-color:#70a226;
+	color:#fff;
+	padding:3px;
+	float:left;
+}
+.wdgtclrzr-widget h4.wdgtclrzr-custom {
+	margin-top:18px;
+}
+.wdgtclrzr-widget h5 {
+	margin:0;
+	padding-top:12px;
+	font-size:12px;
+	text-transform: uppercase;
+}
+.wdgtclrzr-widget > div {
+	padding-top:6px;
+	padding-bottom:6px;
+}
+.wdgtclrzr-widget .wdgtclrzr-clear {
+	display:block;
+	width:100%;
+	clear:both;
+	padding:0;
+}
+label.wdgtclrzr-label {
+	display:block;
+	height:16px;
+	font-size:12px;
+	line-height:16px;
+}
+label.wdgtclrzr-label + .wp-picker-container {
+}
+label.wdgtclrzr-label + .wp-picker-container .wp-picker-holder {
+	position:absolute;
+	z-index:10;
+}
+.wdgtclrzr-box {
+	width:33.33%;
+	float:left;
+	margin-bottom:0;
+}
+.wdgtclrzr-input {
+	width:24.25%;
+	margin-left:1%;
+	float:left;
+}
+.wdgtclrzr-input.wdgtclrzr-large {
+	width:49.5%;
+}
+.wdgtclrzr-input.wdgtclrzr-full {
+	width:100%;
+	margin-left:0;
+}
+.wdgtclrzr-input input,
+.wdgtclrzr-input select,
+.wdgtclrzr-font select,
+.wdgtclrzr-textarea textarea {
+	width:100%;
+}
+.wdgtclrzr-input.wdgtclrzr-first {
+	margin-left:0;
+}
+.wdgtclrzr-font-input {
+	width:100%;
+	float:left;
+}
+.wdgtclrzr-font-size,
+.wdgtclrzr-font-height,
+.wdgtclrzr-font-style,
+.wdgtclrzr-font-weight {
+	width:24.25%;
+	margin-left:1%;
+	float:left;
+}
+.wdgtclrzr-font-size {
+	margin-left:0;
+}
+.wdgtclrzr-widget .button {
+	margin-top:6px;
+}
+.wdgtclrzr-input .button {
+	float:left;
+}
+.wdgtclrzr-input .button.wdgtclrzr-delete,
+.wdgtclrzr-input .button.wdgtclrzr-load {
+	margin-left:4px;
+}
+#wdgtclrzr-import {
+	margin-top:24px;
+}
+.wdgtclrzr-import-textarea {
+	display:none;
+}

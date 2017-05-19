@@ -1,0 +1,1145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newscodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-22 21:47+0100\n"
+"PO-Revision-Date: 2017-03-22 21:47+0100\n"
+"Last-Translator: Nenad Mihajlovic <dzeriho@gmail.com>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/nc-admin-controls.php:224 ../includes/nc-composer.php:11
+msgid "Add Filter"
+msgstr "Filter hinzufügen"
+
+#: ../includes/nc-admin-controls.php:225 ../includes/nc-composer.php:12
+msgid "Update Filters"
+msgstr "Filter aktualisieren"
+
+#: ../includes/nc-admin-controls.php:231 ../includes/nc-composer.php:18
+msgid "Remove Filter"
+msgstr "Filter entfernen"
+
+#: ../includes/nc-admin-controls.php:236 ../includes/nc-composer.php:23
+#: ../includes/nc-cornerstone.php:1774
+msgid "Taxonomy Filter"
+msgstr "Taxonomy Filter"
+
+#: ../includes/nc-admin-controls.php:240 ../includes/nc-composer.php:27
+#: ../includes/nc-cornerstone.php:1778
+msgid "Meta Filter"
+msgstr "Meta Filter"
+
+#: ../includes/nc-admin-controls.php:255 ../includes/nc-admin-controls.php:270
+#: ../includes/nc-admin-controls.php:296 ../includes/nc-admin.php:191
+#: ../includes/nc-composer.php:42 ../includes/nc-composer.php:57
+#: ../includes/nc-composer.php:83 ../includes/nc-composer.php:298
+#: ../includes/nc-cornerstone.php:362 ../includes/nc-cornerstone.php:1162
+#: ../includes/nc-cornerstone.php:1797 ../includes/nc-cornerstone.php:1812
+#: ../includes/nc-cornerstone.php:1845
+msgid "None"
+msgstr "Keine"
+
+#: ../includes/nc-admin-controls.php:597 ../includes/nc-admin-controls.php:631
+#: ../includes/nc-admin.php:409 ../includes/nc-composer.php:247
+#: ../includes/nc-composer.php:263 ../includes/nc-composer.php:329
+#: ../includes/nc-cornerstone.php:46 ../includes/nc-cornerstone.php:581
+#: ../includes/nc-cornerstone.php:997 ../includes/nc-cornerstone.php:1381
+#: ../newscodes.php:165
+msgid "Default"
+msgstr "Standard"
+
+#: ../includes/nc-admin.php:30 ../includes/nc-composer.php:367
+#: ../includes/nc-composer.php:770 ../includes/nc-cornerstone.php:32
+#: ../includes/nc-cornerstone.php:33 ../includes/nc-cornerstone.php:983
+#: ../includes/nc-cornerstone.php:984 ../includes/nc-cornerstone.php:2012
+#: ../includes/nc-cornerstone.php:2013
+msgid "Type"
+msgstr "Typ"
+
+#: ../includes/nc-admin.php:42 ../includes/nc-composer.php:376
+#: ../includes/nc-composer.php:779 ../includes/nc-cornerstone.php:62
+#: ../includes/nc-cornerstone.php:63 ../includes/nc-cornerstone.php:1013
+#: ../includes/nc-cornerstone.php:1014
+msgid "Style"
+msgstr "Stil"
+
+#: ../includes/nc-admin.php:65 ../includes/nc-composer.php:413
+#: ../includes/nc-composer.php:787 ../includes/nc-cornerstone.php:239
+#: ../includes/nc-cornerstone.php:240 ../includes/nc-cornerstone.php:1039
+#: ../includes/nc-cornerstone.php:1040
+msgid "Post Type"
+msgstr "Beiträge Typ"
+
+#: ../includes/nc-admin.php:78 ../includes/nc-composer.php:283
+#: ../includes/nc-cornerstone.php:250 ../includes/nc-cornerstone.php:1050
+msgid "Published"
+msgstr "Erschienen"
+
+#: ../includes/nc-admin.php:82 ../includes/nc-composer.php:284
+#: ../includes/nc-cornerstone.php:254 ../includes/nc-cornerstone.php:1054
+msgid "Pending"
+msgstr "In Erwartung"
+
+#: ../includes/nc-admin.php:86 ../includes/nc-composer.php:285
+#: ../includes/nc-cornerstone.php:258 ../includes/nc-cornerstone.php:1058
+msgid "Draft"
+msgstr "Entwurf"
+
+#: ../includes/nc-admin.php:90 ../includes/nc-composer.php:286
+#: ../includes/nc-cornerstone.php:262 ../includes/nc-cornerstone.php:1062
+msgid "Future"
+msgstr "Zukunft"
+
+#: ../includes/nc-admin.php:94 ../includes/nc-composer.php:287
+#: ../includes/nc-cornerstone.php:266 ../includes/nc-cornerstone.php:1066
+msgid "Private"
+msgstr "Privat"
+
+#: ../includes/nc-admin.php:98 ../includes/nc-composer.php:288
+#: ../includes/nc-cornerstone.php:270 ../includes/nc-cornerstone.php:1070
+msgid "Trash"
+msgstr "Müll"
+
+#: ../includes/nc-admin.php:102 ../includes/nc-composer.php:289
+#: ../includes/nc-cornerstone.php:274 ../includes/nc-cornerstone.php:1074
+msgid "Any"
+msgstr "Alle"
+
+#: ../includes/nc-admin.php:107 ../includes/nc-composer.php:422
+#: ../includes/nc-composer.php:796 ../includes/nc-cornerstone.php:281
+#: ../includes/nc-cornerstone.php:282 ../includes/nc-cornerstone.php:1081
+#: ../includes/nc-cornerstone.php:1082
+msgid "Post Status"
+msgstr "Beiträge Status"
+
+#: ../includes/nc-admin.php:145 ../includes/nc-composer.php:431
+#: ../includes/nc-composer.php:805 ../includes/nc-cornerstone.php:319
+#: ../includes/nc-cornerstone.php:320 ../includes/nc-cornerstone.php:1119
+#: ../includes/nc-cornerstone.php:1120
+msgid "Columns"
+msgstr "Spalte"
+
+#: ../includes/nc-admin.php:157
+msgid "Posts per Page"
+msgstr "Beiträge pro Seite"
+
+#: ../includes/nc-admin.php:168
+msgid "Posts per Column"
+msgstr "Beiträge pro Spalte"
+
+#: ../includes/nc-admin.php:179 ../includes/nc-composer.php:458
+#: ../includes/nc-composer.php:832 ../includes/nc-cornerstone.php:354
+#: ../includes/nc-cornerstone.php:355 ../includes/nc-cornerstone.php:1154
+#: ../includes/nc-cornerstone.php:1155
+msgid "Offset"
+msgstr "Offsetdruck"
+
+#: ../includes/nc-admin.php:195 ../includes/nc-composer.php:299
+#: ../includes/nc-cornerstone.php:366 ../includes/nc-cornerstone.php:1166
+msgid "ID"
+msgstr "ID"
+
+#: ../includes/nc-admin.php:199 ../includes/nc-composer.php:300
+#: ../includes/nc-cornerstone.php:370 ../includes/nc-cornerstone.php:1170
+msgid "Author"
+msgstr "Autor"
+
+#: ../includes/nc-admin.php:203 ../includes/nc-composer.php:301
+#: ../includes/nc-composer.php:408 ../includes/nc-cornerstone.php:215
+#: ../includes/nc-cornerstone.php:216 ../includes/nc-cornerstone.php:217
+#: ../includes/nc-cornerstone.php:374 ../includes/nc-cornerstone.php:1174
+#: ../includes/nc-setup.php:80
+msgid "Title"
+msgstr "Titel"
+
+#: ../includes/nc-admin.php:207 ../includes/nc-composer.php:302
+#: ../includes/nc-cornerstone.php:378 ../includes/nc-cornerstone.php:1178
+msgid "Name"
+msgstr "Name"
+
+#: ../includes/nc-admin.php:211 ../includes/nc-composer.php:303
+#: ../includes/nc-cornerstone.php:382 ../includes/nc-cornerstone.php:1182
+msgid "Date"
+msgstr "Datum"
+
+#: ../includes/nc-admin.php:215 ../includes/nc-composer.php:304
+#: ../includes/nc-cornerstone.php:386 ../includes/nc-cornerstone.php:1186
+msgid "Modified"
+msgstr "Geändert"
+
+#: ../includes/nc-admin.php:219 ../includes/nc-composer.php:305
+#: ../includes/nc-cornerstone.php:390 ../includes/nc-cornerstone.php:1190
+msgid "Random"
+msgstr "Zufällig"
+
+#: ../includes/nc-admin.php:223 ../includes/nc-composer.php:306
+#: ../includes/nc-cornerstone.php:394 ../includes/nc-cornerstone.php:1194
+msgid "Comment Count"
+msgstr "Kommentaranzahl"
+
+#: ../includes/nc-admin.php:227 ../includes/nc-composer.php:307
+#: ../includes/nc-cornerstone.php:398 ../includes/nc-cornerstone.php:1198
+msgid "Menu Order"
+msgstr "Menu Auftrag"
+
+#: ../includes/nc-admin.php:231 ../includes/nc-admin.php:270
+#: ../includes/nc-composer.php:308 ../includes/nc-composer.php:558
+#: ../includes/nc-composer.php:932 ../includes/nc-cornerstone.php:402
+#: ../includes/nc-cornerstone.php:487 ../includes/nc-cornerstone.php:488
+#: ../includes/nc-cornerstone.php:1202 ../includes/nc-cornerstone.php:1287
+#: ../includes/nc-cornerstone.php:1288
+msgid "Post In"
+msgstr "Beiträge In"
+
+#: ../includes/nc-admin.php:236 ../includes/nc-composer.php:466
+#: ../includes/nc-composer.php:840 ../includes/nc-cornerstone.php:409
+#: ../includes/nc-cornerstone.php:410 ../includes/nc-cornerstone.php:1209
+#: ../includes/nc-cornerstone.php:1210
+msgid "Order By"
+msgstr "Sortieren nach"
+
+#: ../includes/nc-admin.php:249 ../includes/nc-composer.php:310
+#: ../includes/nc-cornerstone.php:420 ../includes/nc-cornerstone.php:1220
+msgid "Descending"
+msgstr "Absteigend"
+
+#: ../includes/nc-admin.php:253 ../includes/nc-composer.php:311
+#: ../includes/nc-cornerstone.php:424 ../includes/nc-cornerstone.php:1224
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: ../includes/nc-admin.php:258 ../includes/nc-composer.php:475
+#: ../includes/nc-composer.php:849 ../includes/nc-cornerstone.php:431
+#: ../includes/nc-cornerstone.php:432 ../includes/nc-cornerstone.php:1231
+#: ../includes/nc-cornerstone.php:1232
+msgid "Order"
+msgstr "Sortieren"
+
+#: ../includes/nc-admin.php:281 ../includes/nc-composer.php:566
+#: ../includes/nc-composer.php:940 ../includes/nc-cornerstone.php:494
+#: ../includes/nc-cornerstone.php:495 ../includes/nc-cornerstone.php:1294
+#: ../includes/nc-cornerstone.php:1295
+msgid "Post Not In"
+msgstr "Beiträge Nicht in"
+
+#: ../includes/nc-admin.php:292 ../includes/nc-composer.php:532
+#: ../includes/nc-composer.php:906 ../includes/nc-cornerstone.php:442
+#: ../includes/nc-cornerstone.php:443 ../includes/nc-cornerstone.php:1242
+#: ../includes/nc-cornerstone.php:1243
+msgid "Post Filters"
+msgstr "Beitrag Filtern"
+
+#: ../includes/nc-admin.php:305 ../includes/nc-cornerstone.php:454
+#: ../includes/nc-cornerstone.php:1254
+msgid "AND"
+msgstr "UND"
+
+#: ../includes/nc-admin.php:309 ../includes/nc-cornerstone.php:458
+#: ../includes/nc-cornerstone.php:1258
+msgid "OR"
+msgstr "ODER"
+
+#: ../includes/nc-admin.php:314 ../includes/nc-composer.php:540
+#: ../includes/nc-composer.php:914 ../includes/nc-cornerstone.php:465
+#: ../includes/nc-cornerstone.php:466 ../includes/nc-cornerstone.php:1265
+#: ../includes/nc-cornerstone.php:1266
+msgid "Taxonomy Filter Relation"
+msgstr "Taxonomy Filter von Beziehungen"
+
+#: ../includes/nc-admin.php:327 ../includes/nc-composer.php:549
+#: ../includes/nc-composer.php:923 ../includes/nc-cornerstone.php:476
+#: ../includes/nc-cornerstone.php:477 ../includes/nc-cornerstone.php:1276
+#: ../includes/nc-cornerstone.php:1277
+msgid "Meta Filter Relation"
+msgstr "Meta-Filter von Beziehungen"
+
+#: ../includes/nc-admin.php:339 ../includes/nc-composer.php:574
+#: ../includes/nc-composer.php:948 ../includes/nc-cornerstone.php:501
+#: ../includes/nc-cornerstone.php:502 ../includes/nc-cornerstone.php:1301
+#: ../includes/nc-cornerstone.php:1302
+msgid "HTTP Query"
+msgstr "HTTP Query"
+
+#: ../includes/nc-admin.php:396 ../includes/nc-composer.php:583
+#: ../includes/nc-composer.php:957 ../includes/nc-cornerstone.php:566
+#: ../includes/nc-cornerstone.php:567 ../includes/nc-cornerstone.php:1366
+#: ../includes/nc-cornerstone.php:1367
+msgid "Image Ratio"
+msgstr "Bildverhältnis"
+
+#: ../includes/nc-admin.php:413 ../includes/nc-composer.php:330
+#: ../includes/nc-cornerstone.php:585 ../includes/nc-cornerstone.php:1385
+msgid "Full"
+msgstr "Voll"
+
+#: ../includes/nc-admin.php:427 ../includes/nc-composer.php:592
+#: ../includes/nc-composer.php:966
+msgid "Image Size"
+msgstr "Bildgröße"
+
+#: ../includes/nc-admin.php:440 ../includes/nc-composer.php:338
+#: ../includes/nc-cornerstone.php:615 ../includes/nc-cornerstone.php:1415
+msgid "Heading 1"
+msgstr "Titel 1"
+
+#: ../includes/nc-admin.php:444 ../includes/nc-composer.php:339
+#: ../includes/nc-cornerstone.php:619 ../includes/nc-cornerstone.php:1419
+msgid "Heading 2"
+msgstr "Titel 2"
+
+#: ../includes/nc-admin.php:448 ../includes/nc-composer.php:340
+#: ../includes/nc-cornerstone.php:623 ../includes/nc-cornerstone.php:1423
+msgid "Heading 3"
+msgstr "Titel 3"
+
+#: ../includes/nc-admin.php:452 ../includes/nc-composer.php:341
+#: ../includes/nc-cornerstone.php:627 ../includes/nc-cornerstone.php:1427
+msgid "Heading 4"
+msgstr "Titel 4"
+
+#: ../includes/nc-admin.php:456 ../includes/nc-composer.php:342
+#: ../includes/nc-cornerstone.php:631 ../includes/nc-cornerstone.php:1431
+msgid "Heading 5"
+msgstr "Titel 5"
+
+#: ../includes/nc-admin.php:460 ../includes/nc-composer.php:343
+#: ../includes/nc-cornerstone.php:635 ../includes/nc-cornerstone.php:1435
+msgid "Heading 6"
+msgstr "Titel 6"
+
+#: ../includes/nc-admin.php:465 ../includes/nc-composer.php:601
+#: ../includes/nc-composer.php:975 ../includes/nc-cornerstone.php:642
+#: ../includes/nc-cornerstone.php:643 ../includes/nc-cornerstone.php:1442
+#: ../includes/nc-cornerstone.php:1443
+msgid "Title Tag"
+msgstr "Titel Tag"
+
+#: ../includes/nc-admin.php:477
+msgid "Title Cut"
+msgstr "Schneiden Titel"
+
+#: ../includes/nc-admin.php:488 ../includes/nc-composer.php:619
+#: ../includes/nc-composer.php:621 ../includes/nc-composer.php:993
+#: ../includes/nc-composer.php:995 ../includes/nc-cornerstone.php:666
+#: ../includes/nc-cornerstone.php:667 ../includes/nc-cornerstone.php:1466
+#: ../includes/nc-cornerstone.php:1467
+msgid "Show Date"
+msgstr "Datum anzeigen"
+
+#: ../includes/nc-admin.php:499 ../includes/nc-composer.php:628
+#: ../includes/nc-composer.php:630 ../includes/nc-composer.php:1002
+#: ../includes/nc-composer.php:1004 ../includes/nc-cornerstone.php:674
+#: ../includes/nc-cornerstone.php:675 ../includes/nc-cornerstone.php:1474
+#: ../includes/nc-cornerstone.php:1475
+msgid "Show Time"
+msgstr "Zeit anzeigen"
+
+#: ../includes/nc-admin.php:510 ../includes/nc-composer.php:637
+#: ../includes/nc-composer.php:639 ../includes/nc-composer.php:1011
+#: ../includes/nc-composer.php:1013 ../includes/nc-cornerstone.php:682
+#: ../includes/nc-cornerstone.php:683 ../includes/nc-cornerstone.php:1482
+#: ../includes/nc-cornerstone.php:1483
+msgid "Show Taxonomy"
+msgstr "Taxonomy anzeigen"
+
+#: ../includes/nc-admin.php:521 ../includes/nc-cornerstone.php:709
+#: ../includes/nc-cornerstone.php:710 ../includes/nc-cornerstone.php:1509
+#: ../includes/nc-cornerstone.php:1510
+msgid "Which Taxonomy?"
+msgstr "Welche Taxonomy?"
+
+#: ../includes/nc-admin.php:532 ../includes/nc-composer.php:655
+#: ../includes/nc-composer.php:657 ../includes/nc-composer.php:1029
+#: ../includes/nc-composer.php:1031 ../includes/nc-cornerstone.php:726
+#: ../includes/nc-cornerstone.php:727 ../includes/nc-cornerstone.php:1526
+#: ../includes/nc-cornerstone.php:1527
+msgid "Show Author"
+msgstr "Autor anzeigen"
+
+#: ../includes/nc-admin.php:543 ../includes/nc-composer.php:664
+#: ../includes/nc-composer.php:666 ../includes/nc-composer.php:1038
+#: ../includes/nc-composer.php:1040 ../includes/nc-cornerstone.php:734
+#: ../includes/nc-cornerstone.php:735 ../includes/nc-cornerstone.php:1534
+#: ../includes/nc-cornerstone.php:1535
+msgid "Show Format"
+msgstr "Format anzeigen"
+
+#: ../includes/nc-admin.php:554
+msgid "Excerpt Length?"
+msgstr ""
+
+#: ../includes/nc-admin.php:565
+msgid "Excerpt More?"
+msgstr ""
+
+#: ../includes/nc-admin.php:576 ../includes/nc-admin.php:1035
+#: ../includes/nc-composer.php:691 ../includes/nc-composer.php:693
+#: ../includes/nc-composer.php:1065 ../includes/nc-composer.php:1067
+#: ../includes/nc-cornerstone.php:769 ../includes/nc-cornerstone.php:770
+#: ../includes/nc-cornerstone.php:1569 ../includes/nc-cornerstone.php:1570
+msgid "Pagination"
+msgstr "Pagination"
+
+#: ../includes/nc-admin.php:587 ../includes/nc-composer.php:700
+#: ../includes/nc-composer.php:702 ../includes/nc-composer.php:1074
+#: ../includes/nc-composer.php:1076
+msgid "Ajax"
+msgstr "Ajax"
+
+#: ../includes/nc-admin.php:598 ../includes/nc-composer.php:709
+#: ../includes/nc-composer.php:711 ../includes/nc-composer.php:1083
+#: ../includes/nc-composer.php:1085 ../includes/nc-cornerstone.php:790
+#: ../includes/nc-cornerstone.php:791 ../includes/nc-cornerstone.php:1590
+#: ../includes/nc-cornerstone.php:1591 ../templates/load-more.php:15
+msgid "Load More"
+msgstr "Mehr laden"
+
+#: ../includes/nc-admin.php:609 ../includes/nc-cornerstone.php:804
+#: ../includes/nc-cornerstone.php:805
+msgid "Visible in Ticker"
+msgstr "Sichtbar in der Ticker"
+
+#: ../includes/nc-admin.php:621 ../includes/nc-composer.php:345
+#: ../includes/nc-cornerstone.php:817 ../includes/nc-cornerstone.php:1617
+msgid "Up"
+msgstr "Oben"
+
+#: ../includes/nc-admin.php:625 ../includes/nc-composer.php:346
+#: ../includes/nc-cornerstone.php:821 ../includes/nc-cornerstone.php:1621
+msgid "Down"
+msgstr "Daunen"
+
+#: ../includes/nc-admin.php:630 ../includes/nc-composer.php:727
+#: ../includes/nc-composer.php:1101 ../includes/nc-cornerstone.php:828
+#: ../includes/nc-cornerstone.php:829 ../includes/nc-cornerstone.php:1628
+#: ../includes/nc-cornerstone.php:1629
+msgid "Ticker Direction"
+msgstr "Ticker Richtung"
+
+#: ../includes/nc-admin.php:643 ../includes/nc-composer.php:348
+#: ../includes/nc-cornerstone.php:842 ../includes/nc-cornerstone.php:1642
+msgid "Left"
+msgstr "Links"
+
+#: ../includes/nc-admin.php:647 ../includes/nc-composer.php:349
+#: ../includes/nc-cornerstone.php:846 ../includes/nc-cornerstone.php:1646
+msgid "Right"
+msgstr "Recht"
+
+#: ../includes/nc-admin.php:652 ../includes/nc-composer.php:736
+#: ../includes/nc-composer.php:1110 ../includes/nc-cornerstone.php:853
+#: ../includes/nc-cornerstone.php:854 ../includes/nc-cornerstone.php:1653
+#: ../includes/nc-cornerstone.php:1654
+msgid "Marquee Direction"
+msgstr "Festzelt Richtung"
+
+#: ../includes/nc-admin.php:663 ../includes/nc-composer.php:745
+#: ../includes/nc-composer.php:1119 ../includes/nc-cornerstone.php:867
+#: ../includes/nc-cornerstone.php:868 ../includes/nc-cornerstone.php:1667
+#: ../includes/nc-cornerstone.php:1668
+msgid "Poster Image"
+msgstr ""
+
+#: ../includes/nc-admin.php:675
+msgid "Style name"
+msgstr "Stil Name"
+
+#: ../includes/nc-admin.php:676
+msgid "Enter style name"
+msgstr "Geben Sie Stil Name"
+
+#: ../includes/nc-admin.php:685 ../includes/nc-admin.php:696
+#: ../includes/nc-admin.php:1013
+msgid "Heading"
+msgstr "Titel"
+
+#: ../includes/nc-admin.php:686 ../includes/nc-admin.php:708
+#: ../includes/nc-admin.php:719 ../includes/nc-admin.php:763
+#: ../includes/nc-admin.php:817
+msgid "Color, Font and Text settings"
+msgstr "Farbe, Schriftart und Texteinstellungen"
+
+#: ../includes/nc-admin.php:697 ../includes/nc-admin.php:774
+#: ../includes/nc-admin.php:828
+msgid "Hover color"
+msgstr "Hover Farbe"
+
+#: ../includes/nc-admin.php:707 ../includes/nc-admin.php:1024
+msgid "Excerpt"
+msgstr "Auszug"
+
+#: ../includes/nc-admin.php:718 ../includes/nc-admin.php:729
+#: ../includes/nc-admin.php:1002
+msgid "Meta"
+msgstr "Meta"
+
+#: ../includes/nc-admin.php:730 ../includes/nc-admin.php:752
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: ../includes/nc-admin.php:740 ../includes/nc-admin.php:751
+#: ../includes/nc-cornerstone.php:1828 ../includes/nc-cornerstone.php:1829
+msgid "Taxonomy"
+msgstr "Taxonomy"
+
+#: ../includes/nc-admin.php:741
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: ../includes/nc-admin.php:762 ../includes/nc-admin.php:773
+#: ../includes/nc-admin.php:784
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ../includes/nc-admin.php:785 ../includes/nc-admin.php:839
+msgid "Style CSS"
+msgstr "Stil CSS"
+
+#: ../includes/nc-admin.php:794 ../includes/nc-admin.php:848
+msgid "Border"
+msgstr "Rand"
+
+#: ../includes/nc-admin.php:798 ../includes/nc-admin.php:852
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: ../includes/nc-admin.php:802 ../includes/nc-admin.php:856
+msgid "Text Only"
+msgstr "Nur Text"
+
+#: ../includes/nc-admin.php:806 ../includes/nc-admin.php:860
+msgid "Flat"
+msgstr "Wohnung"
+
+#: ../includes/nc-admin.php:810 ../includes/nc-admin.php:864
+msgid "3D"
+msgstr "3D"
+
+#: ../includes/nc-admin.php:816 ../includes/nc-admin.php:827
+#: ../includes/nc-admin.php:838 ../includes/nc-admin.php:980
+msgid "Tabs"
+msgstr "Tabs"
+
+#: ../includes/nc-admin.php:870
+msgid "Standard"
+msgstr "Standard"
+
+#: ../includes/nc-admin.php:871 ../includes/nc-admin.php:882
+#: ../includes/nc-admin.php:893 ../includes/nc-admin.php:904
+#: ../includes/nc-admin.php:915 ../includes/nc-admin.php:926
+#: ../includes/nc-admin.php:937 ../includes/nc-admin.php:948
+#: ../includes/nc-admin.php:959 ../includes/nc-admin.php:970
+msgid "Post format background color"
+msgstr "KleinformatHintergrundfarbe"
+
+#: ../includes/nc-admin.php:881
+msgid "Aside"
+msgstr "Beiseite"
+
+#: ../includes/nc-admin.php:892
+msgid "Chat"
+msgstr "Unterhaltung"
+
+#: ../includes/nc-admin.php:903
+msgid "Link"
+msgstr "Link"
+
+#: ../includes/nc-admin.php:914
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../includes/nc-admin.php:925 ../includes/nc-admin.php:991
+msgid "Image"
+msgstr "Bild"
+
+#: ../includes/nc-admin.php:936
+msgid "Quote"
+msgstr "Zitat"
+
+#: ../includes/nc-admin.php:947
+msgid "Status"
+msgstr "Status"
+
+#: ../includes/nc-admin.php:958
+msgid "Video"
+msgstr "Video"
+
+#: ../includes/nc-admin.php:969
+msgid "Audio"
+msgstr "Audio"
+
+#: ../includes/nc-admin.php:981 ../includes/nc-admin.php:992
+#: ../includes/nc-admin.php:1003 ../includes/nc-admin.php:1014
+#: ../includes/nc-admin.php:1025 ../includes/nc-admin.php:1036
+msgid "Padding"
+msgstr "Polsterung"
+
+#: ../includes/nc-admin.php:1046
+msgid "Newscodes Settings"
+msgstr "Newscodes Einstellungen"
+
+#: ../includes/nc-admin.php:1046 ../includes/nc-composer.php:756
+#: ../includes/nc-cornerstone.php:202 ../includes/nc-cornerstone.php:961
+msgid "Newscodes"
+msgstr "Newscodes"
+
+#: ../includes/nc-admin.php:1070
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../includes/nc-admin.php:1104
+msgid "Newscodes styles and settings page."
+msgstr "Newscodes Stilen und Einstellungen Seite."
+
+#: ../includes/nc-admin.php:1110
+msgid "Shortcode Generator"
+msgstr "Shortcode Generator"
+
+#: ../includes/nc-admin.php:1111
+msgid "Style Manager"
+msgstr "Stil-Manager"
+
+#: ../includes/nc-admin.php:1112
+msgid "Frontend Optimizations"
+msgstr "Frontend-Optimierungen"
+
+#: ../includes/nc-admin.php:1113
+msgid "Information and Tips"
+msgstr "Informationen und Tipps"
+
+#: ../includes/nc-admin.php:1114
+msgid "Registration"
+msgstr "Registrierung"
+
+#: ../includes/nc-admin.php:1121
+msgid ""
+"Use the shortcode generator to quickly create your Newscodes post grids!"
+msgstr ""
+"Verwendung der Shortcode Generator zu erstellen Sie schnell Ihre Newscodes "
+"Posten Gitter!"
+
+#: ../includes/nc-admin.php:1128
+msgid "No shortcodes found"
+msgstr "Keine Shortcodes gefunden"
+
+#: ../includes/nc-admin.php:1142
+msgid "Start Generator"
+msgstr "Start Generator"
+
+#: ../includes/nc-admin.php:1143 ../includes/nc-admin.php:1255
+msgid "Edit Selected"
+msgstr "Ausgewählte bearbeiten"
+
+#: ../includes/nc-admin.php:1144 ../includes/nc-admin.php:1256
+msgid "Delete Selected"
+msgstr "Ausgewählte löschen"
+
+#: ../includes/nc-admin.php:1152
+msgid "Optimize Group CSS Loading"
+msgstr "Optimieren Sie Gruppe CSS laden"
+
+#: ../includes/nc-admin.php:1154
+msgid ""
+"Currently active CSS styles. Selected group CSS styles will not be loaded on "
+"the frontend."
+msgstr ""
+
+#: ../includes/nc-admin.php:1181
+msgid "No style groups found."
+msgstr "Keine Stil-Gruppen gefunden"
+
+#: ../includes/nc-admin.php:1187
+msgid ""
+"Use CTRL+Click to select which resources will not be loaded on the frontend."
+msgstr ""
+
+#: ../includes/nc-admin.php:1190
+msgid "Update Optimizations"
+msgstr ""
+
+#: ../includes/nc-admin.php:1202
+msgid "Style Groups"
+msgstr "Stil-Gruppen"
+
+#: ../includes/nc-admin.php:1204
+msgid ""
+"Style groups manager. Each group generates its CSS and font dependencies."
+msgstr ""
+
+#: ../includes/nc-admin.php:1211
+msgid "No groups found"
+msgstr "Keine Gruppen gefunden"
+
+#: ../includes/nc-admin.php:1230
+msgid "Create New Group"
+msgstr "Neue Gruppe erstellen"
+
+#: ../includes/nc-admin.php:1231
+msgid "Delete Group"
+msgstr "Gruppe Löschen"
+
+#: ../includes/nc-admin.php:1235
+msgid "Styles"
+msgstr "Stile"
+
+#: ../includes/nc-admin.php:1237
+msgid "Styles manager. Edit styles within a selected style group."
+msgstr ""
+
+#: ../includes/nc-admin.php:1241
+msgid "No styles found"
+msgstr "Keine Stil gefunden"
+
+#: ../includes/nc-admin.php:1254
+msgid "Create New Style"
+msgstr "Neues Format erstellen"
+
+#: ../includes/nc-admin.php:1267
+msgid "Unregistered Version"
+msgstr ""
+
+#: ../includes/nc-admin.php:1270
+msgid ""
+"Register Newscodes to get automatic updates! Enter your <a href=\"http://"
+"codecanyon.net\" target=\"_blank\">codecanyon.net</a> purchase code."
+msgstr ""
+
+#: ../includes/nc-admin.php:1276
+msgid "Confirm Code"
+msgstr ""
+
+#: ../includes/nc-admin.php:1283
+msgid "Registered Version"
+msgstr ""
+
+#: ../includes/nc-admin.php:1286
+msgid "Remove Registration Code"
+msgstr ""
+
+#: ../includes/nc-admin.php:1300
+msgid ""
+"To create a new style click the <strong>Create New Style</strong> button!"
+msgstr ""
+
+#: ../includes/nc-admin.php:1309
+msgid ""
+"Be tidy! Use fewer CSS styles and fonts on the frontend for best "
+"performance. Use the <strong>Frontend Optimizations</strong>."
+msgstr ""
+
+#: ../includes/nc-admin.php:1318
+msgid ""
+"Thanks for purchasing <strong>Newscodes</strong>! Register your copy now and "
+"get automatic updates."
+msgstr ""
+
+#: ../includes/nc-admin.php:1327
+msgid "Groups can have up to <strong>10</strong> styles!"
+msgstr ""
+
+#: ../includes/nc-admin.php:1339
+msgid "Help and Support"
+msgstr ""
+
+#: ../includes/nc-admin.php:1340
+msgid "Documentation"
+msgstr ""
+
+#: ../includes/nc-admin.php:1341
+msgid "Plugin author"
+msgstr "Plugin Autor"
+
+#: ../includes/nc-admin.php:1351
+msgid "Style Editor"
+msgstr "Stil-Manager"
+
+#: ../includes/nc-admin.php:1354
+msgid ""
+"Please select your style to edit or create a new one using the Styles "
+"Manager!"
+msgstr ""
+"Art Bitte wählen Sie Ihren Stil zu bearbeiten oder eine neue erstellen mit "
+"der Stil-Manager!"
+
+#: ../includes/nc-admin.php:1365
+msgid "Shortcode Parameters"
+msgstr ""
+
+#: ../includes/nc-admin.php:1367
+msgid "Setup your element by setting these parameters"
+msgstr ""
+
+#: ../includes/nc-admin.php:1388
+msgid "Edit Style"
+msgstr "Stil bearbeiten"
+
+#: ../includes/nc-admin.php:1390
+msgid "Set style settings and options"
+msgstr "Set Design -Einstellungen und Optionen"
+
+#: ../includes/nc-admin.php:1393 ../includes/nc-admin.php:1481
+#: ../includes/nc-admin.php:1525 ../includes/nc-admin.php:1711
+#: ../includes/nc-admin.php:1761
+msgid "Save"
+msgstr "Speichern Stil"
+
+#: ../includes/nc-admin.php:1394 ../includes/nc-admin.php:1482
+#: ../includes/nc-admin.php:1526 ../includes/nc-admin.php:1712
+#: ../includes/nc-admin.php:1762
+msgid "Save As"
+msgstr "Speichern Als Stil"
+
+#: ../includes/nc-admin.php:1396
+msgid "To Save As choose a group"
+msgstr "To Speichern Als wählen Sie eine Gruppe"
+
+#: ../includes/nc-admin.php:1403 ../includes/nc-admin.php:1483
+#: ../includes/nc-admin.php:1527 ../includes/nc-admin.php:1710
+#: ../includes/nc-admin.php:1760
+msgid "Discard"
+msgstr "Verwerfen"
+
+#: ../includes/nc-admin.php:1406
+msgid "Preview Settings"
+msgstr ""
+
+#: ../includes/nc-admin.php:1419 ../includes/nc-admin.php:1484
+#: ../includes/nc-admin.php:1528 ../includes/nc-admin.php:1708
+#: ../includes/nc-admin.php:1758
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../includes/nc-admin.php:1420 ../includes/nc-admin.php:1709
+#: ../includes/nc-admin.php:1759
+msgid "Dark Preview"
+msgstr ""
+
+#: ../includes/nc-admin.php:1562 ../includes/nc-admin.php:1585
+msgid "Saved!"
+msgstr "Gespeicherte!"
+
+#: ../includes/nc-admin.php:1599 ../includes/nc-admin.php:1614
+#: ../includes/nc-admin.php:1680 ../includes/nc-admin.php:1944
+msgid "Deleted!"
+msgstr "Gelöscht!"
+
+#: ../includes/nc-admin.php:1636
+msgid "Created!"
+msgstr "Erstellt!"
+
+#: ../includes/nc-admin.php:1702
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/nc-admin.php:1702 ../includes/nc-admin.php:1752
+msgid "Copy and paste this shortcode to use in pages and content areas"
+msgstr ""
+
+#: ../includes/nc-admin.php:1752
+msgid "Full Shortcode"
+msgstr ""
+
+#: ../includes/nc-admin.php:1763
+msgid "Short Version"
+msgstr ""
+
+#: ../includes/nc-admin.php:1868
+msgid "Active"
+msgstr "Aktiv"
+
+#: ../includes/nc-admin.php:1870
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: ../includes/nc-admin.php:1916
+msgid "Registered!"
+msgstr ""
+
+#: ../includes/nc-admin.php:1926
+msgid "Not Valid!"
+msgstr ""
+
+#: ../includes/nc-admin.php:1957
+msgid "Optimized!"
+msgstr ""
+
+#: ../includes/nc-composer.php:352
+msgid "Newscodes Tabbed"
+msgstr "Newscodes Tabbed"
+
+#: ../includes/nc-composer.php:361 ../includes/nc-composer.php:390
+#: ../includes/nc-composer.php:759 ../includes/nc-cornerstone.php:759
+#: ../includes/nc-cornerstone.php:1559
+msgid "Content"
+msgstr "Inhalt"
+
+#: ../includes/nc-composer.php:362
+msgid "Multi Mode - The ultimate shortcode set for all news sites!"
+msgstr "Multi-Modus - Das ultimative Shortcode-Set für alle News-Sites!"
+
+#: ../includes/nc-composer.php:386
+msgid "Newscodes Tab"
+msgstr "Newscodes Tab"
+
+#: ../includes/nc-composer.php:395 ../includes/nc-composer.php:761
+#: ../includes/nc-cornerstone.php:203 ../includes/nc-cornerstone.php:962
+msgid "The ultimate shortcode set for all news sites!"
+msgstr "Das ultimative Shortcode-Set für alle News-Sites!"
+
+#: ../includes/nc-composer.php:404
+msgid "Section Title"
+msgstr "Abschnitt Titel"
+
+#: ../includes/nc-composer.php:440 ../includes/nc-composer.php:814
+#: ../includes/nc-cornerstone.php:333 ../includes/nc-cornerstone.php:334
+#: ../includes/nc-cornerstone.php:1133 ../includes/nc-cornerstone.php:1134
+msgid "Posts Per Page"
+msgstr "Beiträge pro Seite"
+
+#: ../includes/nc-composer.php:449 ../includes/nc-composer.php:823
+#: ../includes/nc-cornerstone.php:341 ../includes/nc-cornerstone.php:342
+#: ../includes/nc-cornerstone.php:1141 ../includes/nc-cornerstone.php:1142
+msgid "Posts Per Column"
+msgstr "Beiträge pro Spalte"
+
+#: ../includes/nc-composer.php:484 ../includes/nc-composer.php:858
+msgid "Filters"
+msgstr "Filtern"
+
+#: ../includes/nc-composer.php:492 ../includes/nc-composer.php:866
+msgid "Filter Terms"
+msgstr "Filterbedingungen"
+
+#: ../includes/nc-composer.php:500 ../includes/nc-composer.php:874
+msgid "Meta Keys"
+msgstr "Meta Keys"
+
+#: ../includes/nc-composer.php:508 ../includes/nc-composer.php:882
+msgid "Meta Values"
+msgstr "Meta Werte"
+
+#: ../includes/nc-composer.php:516 ../includes/nc-composer.php:890
+msgid "Meta Compares"
+msgstr "Meta Vergleichen"
+
+#: ../includes/nc-composer.php:524 ../includes/nc-composer.php:898
+msgid "Meta Types"
+msgstr "Meta Typen"
+
+#: ../includes/nc-composer.php:610 ../includes/nc-composer.php:612
+#: ../includes/nc-composer.php:984 ../includes/nc-composer.php:986
+#: ../includes/nc-cornerstone.php:653 ../includes/nc-cornerstone.php:654
+#: ../includes/nc-cornerstone.php:1453 ../includes/nc-cornerstone.php:1454
+msgid "Cut Titles"
+msgstr "Schneiden Titel"
+
+#: ../includes/nc-composer.php:646 ../includes/nc-composer.php:1020
+msgid "Which Taxonomy"
+msgstr "Welche Taxonomy"
+
+#: ../includes/nc-composer.php:673 ../includes/nc-composer.php:1047
+#: ../includes/nc-cornerstone.php:742 ../includes/nc-cornerstone.php:743
+#: ../includes/nc-cornerstone.php:1542 ../includes/nc-cornerstone.php:1543
+msgid "Excerpt Length"
+msgstr "Auszug Länge"
+
+#: ../includes/nc-composer.php:682 ../includes/nc-composer.php:1056
+#: ../includes/nc-cornerstone.php:755 ../includes/nc-cornerstone.php:756
+#: ../includes/nc-cornerstone.php:1555 ../includes/nc-cornerstone.php:1556
+msgid "Excerpt More"
+msgstr "Auszug Mehr"
+
+#: ../includes/nc-composer.php:718 ../includes/nc-composer.php:1092
+#: ../includes/nc-cornerstone.php:1604 ../includes/nc-cornerstone.php:1605
+msgid "Visible In Ticker"
+msgstr "Sichtbar in der Ticker"
+
+#: ../includes/nc-core.php:235
+msgid "Text"
+msgstr "Text"
+
+#: ../includes/nc-cornerstone.php:9
+msgid "Newscodes Multi"
+msgstr "Newscodes-Multi"
+
+#: ../includes/nc-cornerstone.php:10
+msgid "The ultimate shortcode set for all news sites in multi mode!"
+msgstr "Das ultimative Shortcode-Set für alle News-Sites in Multi Modus!"
+
+#: ../includes/nc-cornerstone.php:73 ../includes/nc-cornerstone.php:74
+msgid "Sections"
+msgstr "Abschnitten"
+
+#: ../includes/nc-cornerstone.php:78
+#, php-format
+msgid "Newscode #%s"
+msgstr "Newscode #%s"
+
+#: ../includes/nc-cornerstone.php:447 ../includes/nc-cornerstone.php:1247
+#, php-format
+msgid "Filter #%s"
+msgstr "Filter #%s"
+
+#: ../includes/nc-cornerstone.php:601 ../includes/nc-cornerstone.php:602
+#: ../includes/nc-cornerstone.php:1401 ../includes/nc-cornerstone.php:1402
+msgid "Override Image Resolution"
+msgstr "Override-Bildauflösung"
+
+#: ../includes/nc-cornerstone.php:777 ../includes/nc-cornerstone.php:778
+#: ../includes/nc-cornerstone.php:1577 ../includes/nc-cornerstone.php:1578
+msgid "AJAX"
+msgstr "AJAX"
+
+#: ../includes/nc-cornerstone.php:1762 ../includes/nc-cornerstone.php:1763
+msgid "Post Filter"
+msgstr "Beiträge filtern"
+
+#: ../includes/nc-cornerstone.php:1786 ../includes/nc-cornerstone.php:1787
+msgid "Filter Type"
+msgstr "Filter Typ"
+
+#: ../includes/nc-cornerstone.php:1863 ../includes/nc-cornerstone.php:1864
+msgid "Terms"
+msgstr "Bedingungen"
+
+#: ../includes/nc-cornerstone.php:1882 ../includes/nc-cornerstone.php:1883
+msgid "Key"
+msgstr "Key"
+
+#: ../includes/nc-cornerstone.php:1895 ../includes/nc-cornerstone.php:1896
+msgid "Value"
+msgstr "Wert"
+
+#: ../includes/nc-cornerstone.php:1959 ../includes/nc-cornerstone.php:1960
+msgid "Compare"
+msgstr "Vergleichen"
+
+#: ../includes/nc-setup.php:18
+msgid "Featured Poster"
+msgstr "Besondere Plakat"
+
+#: ../includes/nc-setup.php:19
+msgid "Grid"
+msgstr "Gitter"
+
+#: ../includes/nc-setup.php:20
+msgid "Columned Featured List"
+msgstr "Säulensonderliste"
+
+#: ../includes/nc-setup.php:21
+msgid "Columned Featured List Tiny"
+msgstr "Säulensonderliste Sehr klein"
+
+#: ../includes/nc-setup.php:22
+msgid "Columned Featured List Compact"
+msgstr "Säulensonderliste Kompakt"
+
+#: ../includes/nc-setup.php:23
+msgid "List"
+msgstr "Liste"
+
+#: ../includes/nc-setup.php:24
+msgid "List with Featured"
+msgstr "Liste mit Feature- Beitrag"
+
+#: ../includes/nc-setup.php:25
+msgid "List Compact"
+msgstr "Liste Kompakt"
+
+#: ../includes/nc-setup.php:26
+msgid "List Compact with Featured"
+msgstr "Liste Kompakt mit Feature- Beitrag"
+
+#: ../includes/nc-setup.php:27
+msgid "List Tiny"
+msgstr "Liste Sehr klein"
+
+#: ../includes/nc-setup.php:28
+msgid "List Tiny with Featured"
+msgstr "Liste Sehr klein mit Feature- Beitrag"
+
+#: ../includes/nc-setup.php:29
+msgid "Marquee"
+msgstr "Festzelt"
+
+#: ../includes/nc-setup.php:30
+msgid "Ticker"
+msgstr "Ticker"
+
+#: ../includes/nc-setup.php:31
+msgid "Ticker Compact"
+msgstr "Ticker Kompakt"
+
+#: ../includes/nc-setup.php:32
+msgid "Ticker Tiny"
+msgstr "Ticker Sehr klein"
+
+#: ../includes/nc-setup.php:33
+msgid "One Tabbed Posts"
+msgstr "Ein Tabbed Beiträge"
+
+#: ../includes/nc-setup.php:34
+msgid "Grid Author"
+msgstr ""
+
+#: ../includes/nc-setup.php:35
+msgid "List with Featured Author"
+msgstr ""
+
+#: ../includes/nc-setup.php:36
+msgid "List Compact with Featured Author"
+msgstr ""
+
+#: ../includes/nc-setup.php:37
+msgid "List Tiny with Featured Author"
+msgstr ""
+
+#: ../includes/nc-shortcodes.php:220
+msgid "Shortcode ID is not set."
+msgstr ""
+
+#: ../includes/update/github-checker.php:120
+msgid "There is no changelog available."
+msgstr ""
+
+#: ../includes/update/plugin-update-checker.php:637
+msgid "Check for updates"
+msgstr ""
+
+#: ../includes/update/plugin-update-checker.php:681
+msgid "This plugin is up to date."
+msgstr ""
+
+#: ../includes/update/plugin-update-checker.php:683
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: ../includes/update/plugin-update-checker.php:685
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: ../templates/pagination.php:16
+msgid "Page"
+msgstr "Seite"
+
+#: ../templates/pagination.php:16
+msgid "out of"
+msgstr "aus"
+
+#~ msgid "LOAD MORE"
+#~ msgstr "Mehr laden"
+
+#~ msgid "To create a new style click the"
+#~ msgstr "Um einen neuen Stil zu erstellen klicken Sie auf die"
+
+#~ msgid "button!"
+#~ msgstr "Taste!"
